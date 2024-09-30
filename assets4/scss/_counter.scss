@@ -1,0 +1,43 @@
+.xis-it-counter-section {
+	padding: 110px 0px 90px;
+	background-color: #f8f6f4;
+}
+.xis-it-counter-item {
+	.inner-icon {
+		z-index: 1;
+		margin-right: 25px;
+		&:before {
+			top: -8px;
+			left: 0;
+			z-index: -1;
+			width: 40px;
+			content: '';
+			height: 75px;
+			height: 75px;
+			position: absolute;
+			border-radius: 25px;
+			background-color: #fff;
+		}
+	}
+	.inner-text {
+		h3 {
+			color: #071157;
+			font-size: 60px;
+			font-weight: 700;
+			line-height: .75;
+		}
+		p {
+			font-size: 15px;
+			font-weight: 600;
+			margin-top: 10px;
+			padding: 10px 20px;
+			border-radius: 30px;
+			display: inline-block;
+			font-family: $heading;
+			background-color: #fff;
+			span {
+				@extend%gradiant-icon;
+			}
+		}
+	}
+}

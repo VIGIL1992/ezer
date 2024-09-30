@@ -1,0 +1,116 @@
+.xis-it-about-section {
+	padding: 110px 0px 130px;
+	.container {
+		max-width: 1275px;
+	}
+}
+.xis-it-about-img1 {
+	z-index: 2;
+	overflow: hidden;
+	margin-right: 30px;
+	border-radius: 5px;
+	border-top-left-radius: 70px;
+}
+.xis-it-about-exp-wrap {
+	z-index: 1;
+	padding-top: 70px;
+	padding-left: 35px;
+	.map-bg {
+		top: 30px;
+		z-index: -1;
+		left: -55px;
+	}
+	.inner-text {
+		h3 {
+			color: #140d1c;
+			font-size: 110px;
+			font-weight: 700;
+			line-height: .75;
+			sup {
+				top: -45px;
+				right: -15px;
+				font-size: 55px;
+				@extend%gradiant-icon;
+			}
+		}
+		p {
+			font-size: 20px;
+			font-weight: 700;
+			font-family: $heading;
+			display: inline-block;
+			text-transform: uppercase;
+			@extend%gradiant-icon;
+		}
+	}
+}
+.xis-it-about-text-wrap {
+	padding-left: 30px
+}
+.xis-it-about-video-play-wrap {
+	margin: 35px 0px 40px;
+	.xis-it-video-text {
+		.video-slug {
+			font-size: 18px;
+			font-weight: 700;
+			font-family: $heading;
+			display: inline-block;
+			position: relative;
+			background-image: linear-gradient(90deg, #00d1fb 0%, #ff00fa 100%);
+			-webkit-background-clip: text;
+			background-clip: text;
+			-webkit-text-fill-color: transparent;
+			&:after {
+				left: 0;
+				bottom: 0;
+				content: '';
+				width: 100%;
+				height: 2px;
+				position: absolute;
+				background-image: linear-gradient(90deg, #00d1fb 0%, #ff00fa 100%);
+			}
+		}
+		h3 {
+			color: #2d1b41;
+			font-size: 22px;
+			font-weight: 700;
+			max-width: 230px;
+			padding-top: 15px;
+		}
+	}
+}
+.xis-it-video-play-img-btn {
+	width: 180px;
+	height: 115px;
+	overflow: hidden;
+	margin-right: 30px;
+	border-radius: 5px;
+	&:after {
+		top: 0;
+		left: 0;
+		width: 100%;
+		content: '';
+		height: 100%;
+		position: absolute;
+		background-color: rgba(0, 0, 0, .6);
+	}
+	.xis-it-video-btn {
+		a  {
+			left: 0;
+			right: 0;
+			top: 50%;
+			z-index: 1;
+			color: #fff;
+			width: 60px;
+			height: 60px;
+			margin: 0 auto;
+			position: absolute;
+			border-radius: 100%;
+			transform: translateY(-50%);
+			background-size: 200%, 1px;
+			background-image: linear-gradient(90deg, #08cbfb 0%, #f606f8 50%, #08cbfb);
+			&:hover {
+				background-position: 120%;
+			}
+		}
+	}
+}

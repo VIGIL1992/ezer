@@ -1,0 +1,11 @@
+    <link rel="stylesheet" href="assets4/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets4/css/fontawesome-all.css" />
+    <link rel="stylesheet" href="assets4/css/flaticon.css" />
+    <link rel="stylesheet" href="assets4/css/animate.css" />
+    <link rel="stylesheet" href="assets4/css/odometer-theme-default.css" />
+    <link rel="stylesheet" href="assets4/css/slick.css" />
+    <link rel="stylesheet" href="assets4/css/slick-theme.css" />
+    <link rel="stylesheet" href="assets4/css/video.min.css" />
+    <link rel="stylesheet" href="assets4/css/nice-select.css" />
+    <link rel="stylesheet" href="assets4/css/rs6.css" />
+    <link rel="stylesheet" href="assets4/css/style.css" />

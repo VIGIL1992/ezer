@@ -1,0 +1,142 @@
+@font-face {
+    font-family: "flaticon3";
+    src: url("../fonts/flaticon3.ttf") format("truetype"),
+url("../fonts/flaticon3.woff") format("woff"),
+url("../fonts/flaticon3.woff2") format("woff2"),
+url("../fonts/flaticon3.eot") format("embedded-opentype"),
+url("../fonts/flaticon3.svg") format("svg");
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon3";
+    src: url("../fonts/flaticon3.svg#Flaticon") format("svg");
+  }
+}
+
+.flaticon-next:before {
+    content: "\f101";
+}
+.flaticon-side-up:before {
+    content: "\f102";
+}
+.flaticon-bitcoin:before {
+    content: "\f103";
+}
+.flaticon-team:before {
+    content: "\f104";
+}
+.flaticon-teamwork:before {
+    content: "\f105";
+}
+.flaticon-user:before {
+    content: "\f106";
+}
+.flaticon-leader:before {
+    content: "\f107";
+}
+.flaticon-facebook:before {
+    content: "\f108";
+}
+.flaticon-telephone-call:before {
+    content: "\f109";
+}
+.flaticon-map:before {
+    content: "\f10a";
+}
+.flaticon-mail:before {
+    content: "\f10b";
+}
+.flaticon-loupe:before {
+    content: "\f10c";
+}
+.flaticon-play-button-arrowhead:before {
+    content: "\f10d";
+}
+.flaticon-next-1:before {
+    content: "\f10e";
+}
+.flaticon-right-arrows:before {
+    content: "\f10f";
+}
+.flaticon-send:before {
+    content: "\f110";
+}
+.flaticon-trending-topic:before {
+    content: "\f111";
+}
+.flaticon-settings:before {
+    content: "\f112";
+}
+.flaticon-wallet:before {
+    content: "\f113";
+}
+.flaticon-bank:before {
+    content: "\f114";
+}
+.flaticon-bell:before {
+    content: "\f115";
+}
+.flaticon-currency:before {
+    content: "\f116";
+}
+.flaticon-checked:before {
+    content: "\f117";
+}
+.flaticon-right-arrow:before {
+    content: "\f118";
+}
+.flaticon-check:before {
+    content: "\f119";
+}
+.flaticon-hashtag:before {
+    content: "\f11a";
+}
+.flaticon-growth-chart:before {
+    content: "\f11b";
+}
+.flaticon-activity:before {
+    content: "\f11c";
+}
+.flaticon-visibility:before {
+    content: "\f11d";
+}
+.flaticon-laptop:before {
+    content: "\f11e";
+}
+.flaticon-laptop-1:before {
+    content: "\f11f";
+}
+.flaticon-server:before {
+    content: "\f120";
+}
+.flaticon-user-1:before {
+    content: "\f121";
+}
+.flaticon-https:before {
+    content: "\f122";
+}
+.flaticon-blockchain:before {
+    content: "\f123";
+}
+.flaticon-success:before {
+    content: "\f124";
+}
+.flaticon-trophy:before {
+    content: "\f125";
+}
+.flaticon-premium-quality:before {
+    content: "\f126";
+}
+.flaticon-credit-card:before {
+    content: "\f127";
+}
+.flaticon-management:before {
+    content: "\f128";
+}
+.flaticon-technical-support:before {
+    content: "\f129";
+}
+.flaticon-money:before {
+    content: "\f12a";
+}

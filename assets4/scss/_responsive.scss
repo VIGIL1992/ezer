@@ -1,0 +1,369 @@
+@media screen and (max-width:  1800px) { 
+	.xis-it-instagram-img-wrap {
+		right: -80px;
+	}
+}
+@media screen and (max-width:  1650px) { 
+	.xis-it-instagram-img-wrap {
+		right: -150px;
+	}
+}
+@media screen and (max-width:  1500px) { 
+	.xis-it-instagram-img-wrap {
+		right: -290px;
+	}
+}
+@media screen and (max-width:  1300px) { 
+	.xis-it-instagram-img-wrap {
+		position: static;
+	}
+	.xis-it-instagram-text-area {
+		max-width: 100%;
+		text-align: center;
+	}
+	.xis-it-instagram-feature-list {
+		max-width: 100%;
+		text-align: left;
+	}
+	.xis-it-main-menu-navigation li {
+		margin: 0px 20px;
+	}
+}
+@media screen and (max-width:  1024px) {  
+	.xis-it-main-menu-navigation li {
+		margin: 0px 20px;
+	}
+	.xis-it-section-title h2 {
+		font-size: 45px;
+	}
+	.xis-it-slider-section:before {
+		display: none;
+	}
+	.xis-it-about-exp-wrap {
+		padding-top: 20px;
+		padding-left: 20px;
+	}
+	.xis-it-about-exp-wrap .inner-text h3 {
+		font-size: 65px;
+	}
+	.xis-it-about-exp-wrap .inner-text h3 sup {
+		top: 0;
+		right: 0;
+	}
+	.xis-it-system-feature-section .xis-it-sf-outer-shape1, .xis-it-system-feature-section .xis-it-sf-outer-shape2,
+	.xis-it-system-feature-section:before, .xis-it-system-feature-section:after {
+		display: none;
+	}
+	.xis-it-system-feature-section .xis-it-sf-shape1 {
+		bottom: 0;
+	}
+	.xis-it-service-item {
+		width: 215px;
+	}
+	.xis-it-sservice-cta-content .cta-img-area {
+		right: 0;
+		top: auto;
+		bottom: 0;
+	}
+	.xis-it-sservice-cta-content .xis-it-service-text-wrap .xis-it-section-title h2 {
+		font-size: 35px;
+	}
+	.xis-it-sservice-cta-content .xis-it-service-text-wrap {
+		max-width: 400px;
+	}
+	.xis-it-pricing-inner-item .xis-it-pricing-img .inner-img1, .xis-it-pricing-inner-item .xis-it-pricing-img .inner-img2 {
+		width: 100px;
+		height: 100px;
+	}
+	.xis-it-counter-item .inner-text h3 {
+		font-size: 36px;
+	}
+	.xis-it-counter-item .inner-text p {
+		padding: 5px 10px;
+	}
+	.xis-it-sservice-cta-content:before,
+	.xis-it-sservice-cta-content:after {
+		display: none;
+	}
+}
+@media screen and (max-width:  991px) { 
+	.xis-it-header-section .xis-it-header-top {
+		display: none;
+	}
+	.xis-it-main-menu-navigation {
+		display: none;
+	}
+	.xis-it-header-main-menu-wrap {
+		padding-top: 20px;
+	}
+	#rev_slider_2_1_wrapper #mc_embed_signup input[type=text] {
+		height: 80px;
+	}
+	#rev_slider_2_1_wrapper #mc_embed_signup input[type=submit] {
+		top: 30px;
+	}
+	.xis-it-header-btn {
+		margin-right: 40px;
+	}
+	.xis-it-header-section .mobile_menu_button {
+		display: block;
+	}
+	#rev_slider_2_1_wrapper .zeus.tparrows {
+		min-width: 40px !important;
+		min-height: 40px !important;
+		background-color: #000;
+		transform: translate(20px, -20px) !important;
+		&.tp-rightarrow {
+			transform: translate(-50px, -20px) !important;
+		}
+	}
+	#rev_slider_2_1_wrapper .zeus.tparrows:before {
+		line-height: 40px;
+	}
+	.xis-it-about-img-exp-wrap,
+	.xis-it-feature-text-wrap-2,
+	.xis-it-feature-img-wrap-2 {
+		margin: 0 auto;
+		max-width: 570px;
+		margin-bottom: 40px;
+	}
+	.xis-it-about-text-wrap {
+		padding-left: 0;
+		margin: 0 auto;
+		max-width: 570px;
+	}
+	.xis-it-system-feature-list-wrap {
+		bottom: 0;
+	}
+	.xis-it-system-feature-text-wrap {
+		padding-top: 0;
+		margin-bottom: 60px;
+	}
+	.xis-it-system-feature-section {
+		padding: 80px 0px;
+	}
+	.xis-it-service-item {
+		width: 45%;
+
+	}
+	.xis-it-service-section {
+		padding: 80px 0px 60px;
+	}
+	.xis-it-service-content {
+		padding-bottom: 60px;
+	}
+	.xis-it-sservice-cta-content .cta-img-area {
+		position: static !important;
+		text-align: center;
+		margin-bottom: 40px;
+	}
+	.xis-it-sservice-cta-content .xis-it-service-text-wrap {
+		margin: 0 auto;
+	}
+	.xis-it-sservice-cta-content .xis-it-service-text-wrap .xis-it-section-title span {
+		background-color: #dcf6ff;
+	}
+	.xis-it-sponsor-section {
+		padding: 50px 0px;
+	}
+	.xis-it-pricing-section:before {
+		display: none;
+	}
+	.xis-it-pricing-section {
+		padding: 80px 0px 20px;
+	}
+	.xis-it-pricing-inner-item {
+		margin-bottom: 40px;
+	}
+	.xis-it-feature-section-2 {
+		padding: 50px 0px 20px;
+	}
+	.xis-it-feature-img-wrap-2 {
+		margin-top: 90px;
+	}
+	.xis-it-portfolio-content .grid-size-33,
+	.xis-it-portfolio-content .grid-sizer {
+		width: 50%;
+	}
+	.xis-it-portfolio-item {
+		margin: 0 auto;
+		max-width: 380px;
+		margin-bottom: 30px;
+	}
+	.xis-it-counter-section {
+		padding: 60px 0px 20px;
+	}
+	.xis-it-counter-item {
+		margin-bottom: 30px;
+	}
+	.xis-it-testimonial-section {
+		padding: 70px 0px;
+	}
+	.xis-it-testimonial-section:before {
+		display: none;
+	}
+	.xis-it-blog-item {
+		margin-bottom: 40px;
+	}
+	.xis-it-footer-newslatter-form {
+		max-width: 400px;
+	}
+	.xis-it-footer-widget .app-btn-widget {
+		padding-left: 0;
+	}
+}
+@media screen and (max-width:  680px) { 
+	#rev_slider_2_1_wrapper #mc_embed_signup input[type=text] {
+		width: 300px;
+		height: 50px;
+		font-size: 15px !important;
+		padding-left: 15px !important;
+	}
+	#rev_slider_2_1_wrapper #mc_embed_signup input[type=submit] {
+		top: 15px;
+		width: 60px;
+		right: 15px;
+		height: 40px;
+	}
+	.xis-it-service-inner-items {
+		margin: 0;
+	}
+	.xis-it-service-item {
+		margin: 0;
+		width: 100%;
+		margin-bottom: 40px;
+	}
+	.xis-it-service-item:nth-child(2), .xis-it-service-item:nth-child(4) {
+		transform: translateY(0);
+	}
+	.xis-it-service-text-wrapper {
+		padding-left: 0;
+		padding-top: 40px;
+	}
+	.xis-it-sservice-cta-content {
+		padding: 50px 25px;
+	}
+	.xis-it-portfolio-content .grid-size-33, .xis-it-portfolio-content .grid-sizer {
+		width: 100%;
+	}
+	.xis-it-footer-newslatter-content-area {
+		flex-wrap: wrap;
+	}
+	.xis-it-footer-newslatter-form {
+		margin-top: 25px;
+	}
+}
+@media screen and (max-width:  480px) {
+	#rev_slider_2_1_wrapper #mc_embed_signup input[type=text] {
+		font-size: 12px !important;
+	}
+	.xis-it-header-btn a {
+		height: 45px;
+		width: 130px;
+	}
+	.xis-it-header-section .mobile_menu_button {
+		top: -40px;
+	}
+	.xis-it-about-exp-wrap .inner-text h3 {
+		font-size: 40px;
+	}
+	.xis-it-about-exp-wrap .inner-text p {
+		font-size: 16px;
+	}
+	.xis-it-section-title h2 {
+		font-size: 36px;
+	}
+	.xis-it-about-section {
+		padding: 60px 0px;
+	}
+	.xis-it-section-title span {
+		padding: 10px 20px;
+	}
+	.xis-it-system-feature-text-wrap h2 {
+		font-size: 36px;
+	}
+	.xis-it-system-feature-list h3 {
+		font-size: 30px;
+	}
+	.xis-it-system-feature-list {
+		padding: 40px 30px 20px;
+	}
+	.xis-it-extra-feature-item {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.xis-it-extra-feature-wrap {
+		flex-wrap: wrap;
+	}
+	.xis-it-feature-img-wrap-2 .xis-it-feature-img2,
+	.xis-it-feature-img-wrap-2 .xis-it-ft-shape {
+		display: none;
+	}
+	.xis-it-feature-img-wrap-2 {
+		margin-top: 30px;
+	}
+	.xis-it-instagram-img-wrap .xis-it-instagram-img {
+		width: 100%;
+		max-width: 340px;
+		margin: 0 auto 15px;
+	}
+	.xis-it-instagram-img-wrap .xis-it-instagram-img-item-wrap-1, 
+	.xis-it-instagram-img-wrap .xis-it-instagram-img-item-wrap-2{
+		flex-wrap: wrap;
+	}
+	.xis-it-instagram-img-wrap .xis-it-instagram-img-item-wrap-1 {
+		transform: translate(0);
+	}
+	.xis-it-instagram-section {
+		padding-bottom: 30px;
+	}
+	.xis-it-blog-item .inner-text {
+		left: 30px;
+		bottom: 30px;
+	}
+	.xis-it-blog-item .inner-text h3 {
+		font-size: 28px;
+	}
+	.xis-it-blog-section {
+		padding-bottom: 40px;
+	}
+	.xis-it-footer-newslatter-content-area {
+		padding: 40px 20px;
+	}
+	.xis-it-footer-newlatter-text-wrap h2 {
+		font-size: 24px;
+	}
+	.xis-it-footer-newslatter-form button {
+		width: 80px;
+	}
+	.xis-it-footer-newslatter-form input {
+		padding-left: 20px;
+	}
+	.xis-it-footer-widget  {
+		width: 100%;
+	}
+	.xis-it-footer-menu-widget-wrap {
+		flex-wrap: wrap;
+	}
+	.xis-it-footer-widget .widget-title {
+		padding-bottom: 15px;
+	}
+	.xis-it-footer-widget .logo-widget .brand-logo {
+		padding-bottom: 20px;
+	}
+	.xis-it-instagram-section .xis-it-side-shape {
+		display: none;
+	}
+}
+@media screen and (max-width:  395px) { 
+	#rev_slider_2_1_wrapper #mc_embed_signup input[type=submit] {
+		top: 12px;
+		right: 8px;
+	}
+	.xis-it-header-section .brand-logo {
+		width: 120px;
+	}
+	.xis-it-about-img1 {
+		margin-right: 15px;
+	}
+}
