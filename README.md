@@ -7,7 +7,7 @@ Website URL
 
 Project Overview
 
-This website offers comprehensive support services including:
+This static website was hosted on 20/09/2024 and offers comprehensive support services, including:
 
     Company Incorporation
     Regulatory Licensing and Authorization (DIFC, ADGM, SCA)
@@ -15,14 +15,14 @@ This website offers comprehensive support services including:
 
 Features
 
+    Static Website: The website does not rely on server-side logic and is built purely using frontend technologies.
     Responsive Design: The site adapts to different screen sizes for optimal user experience.
-    SEO Optimized: The website includes proper meta tags such as title, keywords, and author for search engine optimization.
+    SEO Optimized: The website includes meta tags for title, keywords, and author to enhance search engine visibility.
     Developed by: Pixell Media Technologies | Vigil Nath K K
 
 Technologies Used
 
     Frontend: HTML, CSS, JavaScript
-    Backend: PHP
     Hosting: The website is live on https://ezer.ae/
 
 Meta Information
