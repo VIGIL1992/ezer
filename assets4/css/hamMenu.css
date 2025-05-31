@@ -1,0 +1,117 @@
+  /* Base styles */
+  * {
+    /* margin: 0;
+    padding: 0;
+    box-sizing: border-box; */
+    list-style: none;
+    /* text-decoration: none; */
+  }
+
+  /* a {
+    color: white;
+  } */
+
+  /* a:visited {
+    color: white;
+  } */
+
+  /* a:hover {
+    color: #6f86ff;
+  } */
+
+  /* body {
+    background-color: rgb(65, 71, 97);
+    font-family: sans-serif;
+  } */
+
+  /* Off-screen menu */
+  .off-screen-menu {
+    background-color: rgba(2, 22, 19, 0.9);
+    height: 100vh;
+    width: 100%;
+    max-width: 450px;
+    position: fixed;
+    top: 0;
+    right: -450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: center;
+    font-size: 3rem;
+    transition: 0.3s ease;
+  }
+
+  .off-screen-menu.active {
+    right: 0;
+  }
+
+  /* Nav */
+  nav {
+    padding: 1rem;
+    display: flex;
+    background-color: #021613;
+    background: transparent;
+  }
+
+  /* Hamburger menu */
+  .ham-menu {
+    height: 30px;
+    width: 20px;
+    margin-left: auto;
+    position: relative;
+    cursor: pointer;
+  }
+
+  /* Ensure the spans are always visible */
+.ham-menu span {
+  height: 3px;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 25px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  transition: 0.3s ease;
+  opacity: 1; /* Make sure spans are always visible */
+}
+
+/* Adjust span positions */
+.ham-menu span:nth-child(1) {
+  top: 25%;
+}
+
+.ham-menu span:nth-child(3) {
+  top: 75%;
+}
+
+/* When the hamburger is active (clicked), change the style */
+.ham-menu.active span:nth-child(1) {
+  top: 50%;
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.ham-menu.active span:nth-child(2) {
+  opacity: 0; /* Hide the middle span */
+}
+
+.ham-menu.active span:nth-child(3) {
+  top: 50%;
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+/* Show the off-screen menu when active */
+.off-screen-menu.active {
+  right: 0;
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Ensure the menu is hidden by default */
+.off-screen-menu {
+  opacity: 0;
+  visibility: hidden;
+  right: -450px;
+  transition: opacity 0.3s ease, right 0.3s ease;
+}

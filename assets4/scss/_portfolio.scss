@@ -1,0 +1,128 @@
+.xis-it-portfolio-section {
+	z-index: 1;
+	overflow: hidden;
+	background-color: #f8f6f4;
+	.xis-it-side-shape {
+		top: 26.5%;
+		right: 10%;
+		transform: rotate(-2.5deg);
+	}
+	&:before {
+		top: -50px;
+		width: 105%;
+		z-index: -1;
+		content: '';
+		height: 400px;
+		position: absolute;
+		background-color: #fff;
+		transform: rotate(-2.5deg);
+	}
+}
+.xis-it-portfolio-filter-btn {
+	margin-bottom: 25px;
+	button {
+		padding: 0;
+		border: none;
+		color: #071157;
+		font-size: 18px;
+		font-weight: 600;
+		margin: 0px 12px;
+		position: relative;
+		font-family: $heading;
+		text-transform: uppercase;
+		background-color: transparent;
+		&:before {
+			left: 0;
+			right: 0;
+			bottom: 0;
+			width: 0%;
+			content: '';
+			height: 2px;
+			margin: 0 auto;
+			position: absolute;
+			transition: 500ms all ease;
+			background-image: linear-gradient(90deg, #00d1fb 0%, #ff00fa 100%);
+		}
+		&.is-checked {
+			@extend%gradiant-icon;
+			&:before {
+				width: 100%;
+			}
+		}
+	}
+}
+.xis-it-portfolio-content {
+	margin: 0px -15px;
+	padding-top: 15px;
+	.grid-size-33 {
+		width: 33.33%;
+	}
+	.grid-sizer {
+		width: 33.33%;
+	}
+}
+.xis-it-portfolio-item {
+	margin: 15px;
+	overflow: hidden;
+	border-radius: 5px;
+	.xis-it-portfolio-shape {
+		width: 0;
+		left: 20px;
+		bottom: 20px;
+		transition: 500ms all ease;
+	}
+	.inner-text {
+		left: 60px;
+		bottom: 50px;
+		position: absolute;
+		.port-category {
+			opacity: 0;
+			color: #fff;
+			font-size: 20px;
+			font-weight: 500;
+			display: inline-block;
+			font-family: $heading;
+			transition: 500ms all ease;
+			transform: translateX(20px);
+			transition-delay: .2s;
+		}
+		h3 {
+			opacity: 0;
+			color: #fff;
+			font-size: 25px;
+			font-weight: 700;
+			transition: 500ms all ease;
+			transform: translateX(-20px);
+			transition-delay: .3s;
+		}
+		.inner-btn {
+			margin-top: 25px;
+			a {
+				width: 50px;
+				height: 50px;
+				color: #000000;
+				margin-right: 8px;
+				border-radius: 100%;
+				background-color: #fff;
+				transform: scale(0);
+				transition: 500ms all ease;
+			}
+		}
+	}
+	&:hover {
+		.xis-it-portfolio-shape {
+			width: 100%;
+		}
+		.inner-text {
+			.port-category,h3 {
+				opacity: 1;
+				transform: translateX(0px);
+			}
+			.inner-btn {
+				a {
+					transform: scale(1.0);
+				}
+			}
+		}
+	}
+}

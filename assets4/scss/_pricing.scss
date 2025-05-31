@@ -1,0 +1,159 @@
+.xis-it-pricing-section {
+	padding: 130px 0px;
+	&:before {
+		left: 0;
+		top: -30px;
+		content: "";
+		width: 100%;
+		height: 50px;
+		z-index: 0;
+		position: absolute;
+		background-color: #fff;
+		transform: rotate(-1deg);
+	}
+}
+.xis-it-pricing-content {
+	padding-top: 30px
+}
+.xis-it-pricing-inner-item {
+	z-index: 1;
+	padding: 50px 0px 0px;
+	background-color: #fff;
+	border-top-left-radius: 100px;
+	box-shadow: 0px 3px 68px 0px rgba(0, 0, 0, 0.04);
+	&:before {
+		left: 0;
+		top: 0px;
+		width: 100%;
+		content: "";
+		height: 50%;
+		z-index: -2;
+		position: absolute;
+		border-top-left-radius: 100px;
+		-webkit-transition: 500ms all ease;
+		transition: 500ms all ease;
+		background-image: -webkit-gradient(linear, left top, right top, from(#00d1fb), to(#ff00fa));
+		background-image: linear-gradient(90deg, #00d1fb 0%, #ff00fa 100%);
+	}
+	&:after {
+		top: 0;
+		left: 0;
+		z-index: -1;
+		width: 100%;
+		content: '';
+		height: 100%;
+		position: absolute;
+		background-color: #fff;
+		border-top-left-radius: 100px;
+	}
+	.xis-it-price-inner-title {
+		font-family: $heading;
+		margin-bottom: 25px;
+		.price-head {
+			font-size: 15px;
+			font-weight: 700;
+			letter-spacing: 3px;
+			display: inline-block;
+			@extend%gradiant-icon;
+		}
+		h3 {
+			color: #140d1c;
+			font-size: 25px;
+			font-weight: 700;
+		}
+		.price-rate {
+			font-weight: 500;
+			color: #2d1b41;
+			font-size: 20px;
+		}
+	}
+	.xis-it-pricing-img {
+		padding: 0px 40px;
+		margin-bottom: 30px;
+		.inner-img1,
+		.inner-img2 {
+			width: 140px;
+			height: 140px;
+			margin: 0px 3px;
+			overflow: hidden;
+			border-radius: 100%;
+			img {
+				transition: 500ms all ease;
+			}
+		}
+	}
+	.xis-it-price-label-img {
+		padding-bottom: 35px;
+	}
+	.xis-it-pricing-list-item {
+		text-align: left;
+		padding: 40px 50px 35px;
+		border-top: 2px solid #f8f7f5;
+		li {
+			color: #140d1c;
+			font-size: 18px;
+			font-weight: 700;
+			padding-left: 28px;
+			position: relative;
+			margin-bottom: 12px;
+			font-family: $heading;
+			&:before {
+				top: 3px;
+				left: 0;
+				font-size: 16px;
+				content: '\f00c';
+				font-weight: 900;
+				position: absolute;
+				font-family: 'Font Awesome 5 Pro';
+				@extend%gradiant-icon;
+			}
+		}
+	}
+	.xis-it-pricing-btn {
+		a {
+			color: #fff;
+			z-index: 1;
+			width: 100%;
+			height: 65px;
+			font-size: 18px;
+			font-weight: 700;
+			position: relative;
+			font-family: $heading;
+			background-color: #2b2c2c;
+			&:hover {
+				letter-spacing: 4px;
+			}
+			&:before {
+				left: 0;
+				bottom: 0;
+				z-index: -1;
+				width: 100%;
+				content: '';
+				height: 0%;
+				position: absolute;
+				transition: 500ms all ease;
+				background-image: linear-gradient(90deg, #00d1fb 0%, #ff00fa 100%);
+			}
+		}
+	}
+	&:hover {
+		&:before {
+			top: -10px;
+		}
+		.xis-it-pricing-btn {
+			a {
+				&:before {
+					height: 100%;
+				}
+			}
+		}
+		.xis-it-pricing-img {
+			.inner-img1,
+			.inner-img2 {
+				img {
+					transform: scale(1.1);
+				}
+			}
+		}
+	}
+}

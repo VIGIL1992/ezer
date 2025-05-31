@@ -1,0 +1,193 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?541ad6bdd1faa239c3beec55b18e6d7f") format("truetype"),
+url("./flaticon.woff?541ad6bdd1faa239c3beec55b18e6d7f") format("woff"),
+url("./flaticon.woff2?541ad6bdd1faa239c3beec55b18e6d7f") format("woff2"),
+url("./flaticon.eot?541ad6bdd1faa239c3beec55b18e6d7f#iefix") format("embedded-opentype"),
+url("./flaticon.svg?541ad6bdd1faa239c3beec55b18e6d7f#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "next": "\f101",
+    "side-up": "\f102",
+    "bitcoin": "\f103",
+    "team": "\f104",
+    "teamwork": "\f105",
+    "user": "\f106",
+    "leader": "\f107",
+    "facebook": "\f108",
+    "telephone-call": "\f109",
+    "map": "\f10a",
+    "mail": "\f10b",
+    "loupe": "\f10c",
+    "play-button-arrowhead": "\f10d",
+    "next-1": "\f10e",
+    "right-arrows": "\f10f",
+    "send": "\f110",
+    "trending-topic": "\f111",
+    "settings": "\f112",
+    "wallet": "\f113",
+    "bank": "\f114",
+    "bell": "\f115",
+    "currency": "\f116",
+    "checked": "\f117",
+    "right-arrow": "\f118",
+    "check": "\f119",
+    "hashtag": "\f11a",
+    "growth-chart": "\f11b",
+    "activity": "\f11c",
+    "visibility": "\f11d",
+    "laptop": "\f11e",
+    "laptop-1": "\f11f",
+    "server": "\f120",
+    "user-1": "\f121",
+    "https": "\f122",
+    "blockchain": "\f123",
+    "success": "\f124",
+    "trophy": "\f125",
+    "premium-quality": "\f126",
+    "credit-card": "\f127",
+    "management": "\f128",
+    "technical-support": "\f129",
+    "money": "\f12a",
+);
+
+.flaticon-next:before {
+    content: map-get($flaticon-map, "next");
+}
+.flaticon-side-up:before {
+    content: map-get($flaticon-map, "side-up");
+}
+.flaticon-bitcoin:before {
+    content: map-get($flaticon-map, "bitcoin");
+}
+.flaticon-team:before {
+    content: map-get($flaticon-map, "team");
+}
+.flaticon-teamwork:before {
+    content: map-get($flaticon-map, "teamwork");
+}
+.flaticon-user:before {
+    content: map-get($flaticon-map, "user");
+}
+.flaticon-leader:before {
+    content: map-get($flaticon-map, "leader");
+}
+.flaticon-facebook:before {
+    content: map-get($flaticon-map, "facebook");
+}
+.flaticon-telephone-call:before {
+    content: map-get($flaticon-map, "telephone-call");
+}
+.flaticon-map:before {
+    content: map-get($flaticon-map, "map");
+}
+.flaticon-mail:before {
+    content: map-get($flaticon-map, "mail");
+}
+.flaticon-loupe:before {
+    content: map-get($flaticon-map, "loupe");
+}
+.flaticon-play-button-arrowhead:before {
+    content: map-get($flaticon-map, "play-button-arrowhead");
+}
+.flaticon-next-1:before {
+    content: map-get($flaticon-map, "next-1");
+}
+.flaticon-right-arrows:before {
+    content: map-get($flaticon-map, "right-arrows");
+}
+.flaticon-send:before {
+    content: map-get($flaticon-map, "send");
+}
+.flaticon-trending-topic:before {
+    content: map-get($flaticon-map, "trending-topic");
+}
+.flaticon-settings:before {
+    content: map-get($flaticon-map, "settings");
+}
+.flaticon-wallet:before {
+    content: map-get($flaticon-map, "wallet");
+}
+.flaticon-bank:before {
+    content: map-get($flaticon-map, "bank");
+}
+.flaticon-bell:before {
+    content: map-get($flaticon-map, "bell");
+}
+.flaticon-currency:before {
+    content: map-get($flaticon-map, "currency");
+}
+.flaticon-checked:before {
+    content: map-get($flaticon-map, "checked");
+}
+.flaticon-right-arrow:before {
+    content: map-get($flaticon-map, "right-arrow");
+}
+.flaticon-check:before {
+    content: map-get($flaticon-map, "check");
+}
+.flaticon-hashtag:before {
+    content: map-get($flaticon-map, "hashtag");
+}
+.flaticon-growth-chart:before {
+    content: map-get($flaticon-map, "growth-chart");
+}
+.flaticon-activity:before {
+    content: map-get($flaticon-map, "activity");
+}
+.flaticon-visibility:before {
+    content: map-get($flaticon-map, "visibility");
+}
+.flaticon-laptop:before {
+    content: map-get($flaticon-map, "laptop");
+}
+.flaticon-laptop-1:before {
+    content: map-get($flaticon-map, "laptop-1");
+}
+.flaticon-server:before {
+    content: map-get($flaticon-map, "server");
+}
+.flaticon-user-1:before {
+    content: map-get($flaticon-map, "user-1");
+}
+.flaticon-https:before {
+    content: map-get($flaticon-map, "https");
+}
+.flaticon-blockchain:before {
+    content: map-get($flaticon-map, "blockchain");
+}
+.flaticon-success:before {
+    content: map-get($flaticon-map, "success");
+}
+.flaticon-trophy:before {
+    content: map-get($flaticon-map, "trophy");
+}
+.flaticon-premium-quality:before {
+    content: map-get($flaticon-map, "premium-quality");
+}
+.flaticon-credit-card:before {
+    content: map-get($flaticon-map, "credit-card");
+}
+.flaticon-management:before {
+    content: map-get($flaticon-map, "management");
+}
+.flaticon-technical-support:before {
+    content: map-get($flaticon-map, "technical-support");
+}
+.flaticon-money:before {
+    content: map-get($flaticon-map, "money");
+}
