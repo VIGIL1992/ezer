@@ -16,16 +16,16 @@
 
     <link rel="stylesheet" href="assets/css/global.css" />
     <?php
-			include('inc/header.php')
+			include('inc/header.php');
 		?>
     
   </head>
   <body class="xis-it-body">
     <!-- <div id="preloader"></div> -->
     <div class="up">
-      <a href="#" class="scrollup text-center"
-        ><i class="fas fa-chevron-up"></i
-      ></a>
+      <a href="#" class="scrollup text-center">
+        <i class="fas fa-chevron-up"></i>
+      </a>
     </div>
     <?php
       include('inc/navbar2.php');

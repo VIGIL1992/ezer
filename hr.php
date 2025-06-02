@@ -4,6 +4,10 @@
 <head>
     <meta charset="utf-8">
     <title>Human Resources | EZER</title>
+    <meta name="description" content="Ezer provides essential support services to firms aiming to establish a presence by setting up a firm within the DIFC and ADGM." />
+    <meta name="keywords" content="EZER , Company Incorporation, UAE, Regulatory Licensing, Authorisation, DIFC, ADGM, SCA, HR Recruitment, Compliance Services, comprehensive range of services" />
+    <meta name="author" content="Pixell Media Technologies | VIGIL NATH K K " />
+    
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
 
@@ -31,146 +35,13 @@
     <div class="page-wrapper">
 
         <!-- Preloader -->
-        <div class="preloader"></div>
+        <!-- <div class="preloader"></div> -->
         <!-- End Preloader -->
 
-        <!-- Header Style Six -->
-        <header class="main-header header-style-six">
-
-            <!-- Header Lower -->
-            <div class="header-lower">
-                <div class="auto-container">
-                    <div class="inner-container d-flex justify-content-between align-items-center">
-                        <!-- Logo Box -->
-                        <div class="pull-left logo-box">
-                            <div class="logo"><a href="index.html"><img src="assets/images/logo.png" alt="" title=""></a></div>
-                        </div>
-
-                        <!-- Nav Outer -->
-                        <div class="nav-outer clearfix">
-                            <!-- Mobile Navigation Toggler -->
-                            <div class="mobile-nav-toggler"><span class="icon flaticon-menu"></span></div>
-                            <!-- Main Menu -->
-                            <nav class="main-menu navbar-expand-md">
-                                <div class="navbar-header">
-                                    <!-- Toggle Button -->
-                                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                                        <span class="icon-bar"></span>
-                                        <span class="icon-bar"></span>
-                                        <span class="icon-bar"></span>
-                                    </button>
-                                </div>
-
-                                <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
-                                    <ul class="navigation clearfix">
-                                        <li class="dropdown"><a href="#">Demos</a>
-                                            <ul>
-                                                <li><a href="index.html">Homepage 01</a></li>
-                                                <li><a href="index-2.html">Homepage 02</a></li>
-                                                <li><a href="index-3.html">Homepage 03</a></li>
-                                                <li><a href="index-4.html">Homepage 04</a></li>
-                                                <li><a href="index-5.html">Homepage 05</a></li>
-                                                <li><a href="index-6.html">Homepage 06</a></li>
-                                                <li><a href="index-7.html">Homepage 07</a></li>
-                                                <li><a href="index-8.html">Homepage 08</a></li>
-                                                <li><a href="index-9.html">Homepage 09</a></li>
-                                                <li><a href="index-10.html">Homepage 10</a></li>
-                                                <li><a href="index-11.html">Homepage 11</a></li>
-                                                <li><a href="index-12.html">Homepage 12</a></li>
-                                                <li><a href="index-13.html">Homepage 13</a></li>
-                                                <li><a href="index-14.html">Homepage 14</a></li>
-                                                <li><a href="index-15.html">Homepage 15</a></li>
-                                                <li><a href="index-16.html">Homepage 16</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">About</a>
-                                            <ul>
-                                                <li><a href="about.html">About us</a></li>
-                                                <li><a href="team.html">Team</a></li>
-                                                <li><a href="faq.html">Faq's</a></li>
-                                                <li><a href="price.html">Price</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Services</a>
-                                            <ul>
-                                                <li><a href="services.html">Services</a></li>
-                                                <li><a href="service-detail.html">Services Detail</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Projects</a>
-                                            <ul>
-                                                <li><a href="projects.html">Projects Grid</a></li>
-                                                <li><a href="projects-masonry.html">Projects Masonry</a></li>
-                                                <li><a href="projects-detail.html">Projects Detail</a></li>
-                                            </ul>
-                                        </li>
-                                        <li class="dropdown"><a href="#">Blog</a>
-                                            <ul>
-                                                <li><a href="blog.html">Our Blog</a></li>
-                                                <li><a href="blog-detail.html">Blog Detail</a></li>
-                                                <li><a href="not-found.html">Not Found</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                    </ul>
-                                </div>
-
-                            </nav>
-
-                        </div>
-
-                        <!-- Main Menu End-->
-                        <div class="outer-box clearfix">
-
-                            <!-- Button Box -->
-                            <div class="button-box">
-                                <a href="contact.html" class="theme-btn btn-style-sixteen"><span class="txt">signin</span></a>
-                            </div>
-                            <!-- End Button Box -->
-
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-            <!-- End Header Lower -->
-
-            <!-- Sticky Header  -->
-            <div class="sticky-header">
-                <div class="auto-container clearfix">
-                    <!--Logo-->
-                    <div class="logo pull-left">
-                        <a href="index.html" title=""><img src="assets/images/logo-5.png" alt="" title=""></a>
-                    </div>
-                    <!--Right Col-->
-                    <div class="pull-right">
-
-                        <!-- Main Menu -->
-                        <nav class="main-menu">
-                            <!--Keep This Empty / Menu will come through Javascript-->
-                        </nav>
-                        <!-- Main Menu End-->
-
-                        <!-- Mobile Navigation Toggler -->
-                        <div class="mobile-nav-toggler"><span class="icon flaticon-menu-1"></span></div>
-
-                    </div>
-                </div>
-            </div><!-- End Sticky Menu -->
-
-            <!-- Mobile Menu  -->
-            <div class="mobile-menu">
-                <div class="menu-backdrop"></div>
-                <div class="close-btn"><span class="icon flaticon-multiply"></span></div>
-
-                <nav class="menu-box">
-                    <div class="nav-logo"><a href="index.html"><img src="assets/images/logo-small.png" alt="" title=""></a></div>
-                    <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
-                </nav>
-            </div><!-- End Mobile Menu -->
-
-        </header>
-        <!-- End Main Header -->
+        <?php
+			include('inc/navbar2.php');
+            include('inc/whatsapp.php');
+		?>
 
         <!-- Page Title / Style Three -->
         <section class="page-title style-two">
@@ -182,7 +53,7 @@
                     <!-- Title Column -->
                     <div class="title-column col-lg-12 col-md-12 col-sm-12">
                         <div class="inner-column">
-                            <h1>Human Resources</h1>
+                            <h1 class="text-white">Human Resources</h1>
                             <ul class="page-breadcrumb">
                                 <li><a href="index.php">home</a></li>
                                 <li>Human Resources</li>
@@ -205,7 +76,7 @@
                         <div class="blog-detail">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="assets4/slider2 1.jpg" alt="" />
+                                    <img src="assets4/img/service/hr.avif" alt="" />
                                 </div>
                                 <div class="lower-content">
                                     <!-- <ul class="post-info">

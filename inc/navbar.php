@@ -24,7 +24,8 @@
                     <li><a href="index.php#xis-it-slider">Home</a></li>
                     <li><a href="index.php#xis-it-about">About</a></li>
                     <li>
-                      <a href="index.php#xis-it-service">Services</a>
+                      <!-- <a href="services.php">Services</a> -->
+                       <a href="index.php#xis-it-service">Services</a>
                       <ul class="dropdown-menu">
                         <li><a href="business.php">Business Consultancy</a></li>
                         <li><a href="marketing.php">Marketing Services</a></li>
@@ -32,7 +33,6 @@
                         <li><a href="customer.php">Customer Experience</a></li>
                       </ul>
                     </li>
-                    <!-- <li><a href="#xis-it-pricing">Products</a></li> -->
                     <li><a href="contact.php">Contact</a></li>
                   </ul>
                 </nav>
@@ -89,7 +89,27 @@
     <!-- End of header section
 	============================================= -->
 
+<style>
+ /* Mobile submenu display (always visible when menu is open) */
+.mobile_menu_wrap .dropdown-menu {
+  display: block !important; /* override hidden default */
+  position: static; /* no absolute positioning in burger menu */
+  background: none; /* or keep if you want a background */
+  padding-left: 15px; /* indents to show nesting */
+}
 
+.mobile_menu_wrap .dropdown-menu li a {
+  color: #fff; /* adjust as needed */
+}
+.mobile_menu_wrap .dropdown-menu {
+  display: block !important;
+  position: static;
+  background: none;
+  padding-left: 15px;
+}
+
+
+</style>
 
   <!-- JavaScript -->
 <script src="assets4/js/hamMenu.js"></script>

@@ -816,6 +816,8 @@
   --padding-bottom-150: 150px;
   --padding-bottom-200: 200px;
   --padding-bottom-250: 250px;
+
+  --green-color: #18615B;
   
 }
 
@@ -878,6 +880,7 @@ body {
 	color:var(--text-color);
 	line-height:1.6em;
 	font-weight:400;
+	 overflow-x: hidden;
 	-webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: antialiased;
 }
@@ -1212,7 +1215,7 @@ img{
 	color: var(--white-color);
 	font-size: var(--font-16);
 	text-transform: capitalize;
-	background-color:#2E9F90;
+	background-color:var(--green-color);
 }
 
 .btn-style-two .txt{

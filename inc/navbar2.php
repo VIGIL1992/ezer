@@ -23,8 +23,8 @@
                     <ul id="xis-main-nav" class="nav navbar-nav clearfix">
                       <li><a href="index.php">Home</a></li>
                       <li><a href="index.php#xis-it-about">About</a></li>
-                      <li><a href="index.php#xis-it-service">Service</a></li>
-                      <li><a href="index.php#xis-it-pricing">Pricing</a></li>
+                      <li><a href="index.php#xis-it-service">Services</a></li>
+                      <!-- <li><a href="index.php#xis-it-pricing">Pricing</a></li> -->
                       <li><a href="index.php#xis-it-footer">Contact</a></li>
                     </ul>
                   </nav>
@@ -60,8 +60,8 @@
                   <ul id="xis-main-nav" class="nav navbar-nav clearfix">
                     <li><a href="index.php">Home</a></li>
                     <li><a href="index.php#xis-it-about">About</a></li>
-                    <li><a href="index.php#xis-it-service">Service</a></li>
-                    <li><a href="index.php#xis-it-pricing">Pricing</a></li>
+                    <li><a href="index.php#xis-it-service">Services</a></li>
+                    <!-- <li><a href="index.php#xis-it-pricing">Pricing</a></li> -->
                     <li><a href="contact.php">Contact</a></li>
                   </ul>
                 </nav>

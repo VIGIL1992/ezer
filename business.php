@@ -4,12 +4,17 @@
 <head>
     <meta charset="utf-8">
     <title>Business Consultancy | EZER</title>
+    <meta name="description" content="Ezer provides essential support services to firms aiming to establish a presence by setting up a firm within the DIFC and ADGM." />
+    <meta name="keywords" content="EZER , Company Incorporation, UAE, Regulatory Licensing, Authorisation, DIFC, ADGM, SCA, HR Recruitment, Compliance Services, comprehensive range of services" />
+    <meta name="author" content="Pixell Media Technologies | VIGIL NATH K K " />
+    
     <!-- Stylesheets -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
 
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/responsive.css" rel="stylesheet">
 
+    <link rel="stylesheet" href="assets/css/global.css" />
         <link rel="stylesheet" href="assets4/css/fontawesome-all.css" />
         <link rel="stylesheet" href="assets4/css/style.css">
         
@@ -53,7 +58,7 @@
                     <!-- Title Column -->
                     <div class="title-column col-lg-12 col-md-12 col-sm-12">
                         <div class="inner-column">
-                            <h1>Business Consultancy</h1>
+                            <h1 class="text-white">Business Consultancy</h1>
                             <ul class="page-breadcrumb">
                                 <li><a href="index.php">home</a></li>
                                 <li>Business Consultancy</li>
@@ -76,7 +81,7 @@
                         <div class="blog-detail">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="assets4/slider2 1.jpg" alt="" />
+                                    <img src="assets4/img/service/business.jpg" alt="" />
                                 </div>
                                 <div class="lower-content">
                                     <!-- <ul class="post-info">

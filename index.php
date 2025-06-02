@@ -580,7 +580,7 @@
 
     <!-- Start of About section
 	  ============================================= -->
-    <section id="xis-it-about" class="xis-it-about-section position-relative">
+    <section id="xis-it-about" class="xis-it-about-section position-relative" style="padding-bottom: 80px;">
       <div class="container">
         <div class="xis-it-about-content">
           <div class="row">
@@ -726,7 +726,7 @@
 
     
     <!-- Features Start -->
-    <section id="xis-it-pricing" class="xis-it-pricing-section position-relative" data-background="assets4/img/bg/price-bg.jpg" style="background-image: url(&quot;assets4/img/bg/price-bg.jpg&quot;);">
+    <!-- <section id="xis-it-pricing" class="xis-it-pricing-section position-relative" data-background="assets4/img/bg/price-bg.jpg" style="background-image: url(&quot;assets4/img/bg/price-bg.jpg&quot;);">
       <div class="container">
         <div class="xis-it-section-title text-center xis-it-headline pera-content wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInUp;">
           <span>Features</span>
@@ -752,7 +752,10 @@
                 </div>
                 <div class="xis-saas-thx-text xis-saas-headline pera-content">
                   <h3>We take your brand to market.</h3>
-                  <p>Our marketing services combine strategy and execution—from positioning and planning to field campaigns and go-to-market activations—designed to generate awareness, engagement, and growth.</p>
+                  <p>
+                    Our marketing services combine strategy and execution—from positioning and planning to field 
+                    campaigns and go-to-market activations—designed to generate awareness, engagement, and growth.
+                  </p>
                 </div>
               </div>
             </div>
@@ -763,7 +766,10 @@
                 </div>
                 <div class="xis-saas-thx-text xis-saas-headline pera-content">
                   <h3>We help you build your team</h3>
-                  <p>Our bespoke talent sourcing focuses on headhunting high-impact professionals across industries, ensuring the right people are in place from day one.</p>
+                  <p>
+                    Our bespoke talent sourcing focuses on headhunting high-impact professionals across industries, 
+                    ensuring the right people are in place from day one.
+                  </p>
                 </div>
               </div>
             </div>
@@ -774,16 +780,112 @@
                 </div>
                 <div class="xis-saas-thx-text xis-saas-headline pera-content">
                   <h3>We help you elevate every customer touchpoint.</h3>
-                  <p>Our end-to-end customer experience solutions—spanning service, retention, and success—ensure your clients stay engaged, loyal, and satisfied as you scale.</p>
+                  <p>
+                    Our end-to-end customer experience solutions—spanning service, retention, and success—ensure your 
+                    clients stay engaged, loyal, and satisfied as you scale.
+                  </p>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
+    </section> -->
+   
+
+    <section id="xis-it-What we do" class="xis-it-service-section" data-background="assets4/img/bg/ser-bg.png" style="background-image: url(&quot;assets4/img/bg/ser-bg.png&quot;); padding-top: 80px;">
+      <div class="container">
+        <div class="xis-it-service-content">
+          <div class="row">
+            <div class="col-lg-6">
+              <div class="xis-it-service-inner-items d-flex flex-wrap wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInLeft;">
+                <div class="xis-it-service-item position-relative text-center pt-5 pd-5">
+                  <span class="xis-it-service-shape position-absolute"></span>
+                  <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                  <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                  <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                    <img src="assets4/icon/ic1.png" alt="">
+                  </div> -->
+                  <div class="inner-text position-relative xis-it-headline">
+                    <h3 >We help you get started—fast</h3>
+                    <p class="pt-4">
+                      Whether it’s securing the right license or navigating regulatory requirements, we prepare businesses 
+                      to launch with clarity and confidence.
+                    </p>
+                  </div>
+                </div>
+                <div class="xis-it-service-item position-relative text-center pt-5 pd-5">
+                  <span class="xis-it-service-shape position-absolute"></span>
+                  <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                  <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                  <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                    <img src="assets4/icon/ic2.png" alt="">
+                  </div> -->
+                  <div class="inner-text position-relative xis-it-headline">
+                    <h3>We take your brand to market.</h3>
+                    <p class="pt-4">
+                      Our marketing services combine strategy and execution—from positioning and planning to field 
+                      campaigns and go-to-market activations—designed to generate awareness, engagement, and growth.
+                  </p>
+                  </div>
+                </div>
+                <div class="xis-it-service-item position-relative text-center pt-5 pd-5">
+                  <span class="xis-it-service-shape position-absolute"></span>
+                  <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                  <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                  <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                    <img src="assets4/icon/ic3.png" alt="">
+                  </div> -->
+                  <div class="inner-text position-relative xis-it-headline">
+                    <h3>We help you build your team</h3>
+                    <p class="pt-4">
+                      Our bespoke talent sourcing focuses on headhunting high-impact professionals across industries, 
+                      ensuring the right people are in place from day one.
+                    </p>
+                  </div>
+                </div>
+                <div class="xis-it-service-item position-relative text-center pt-5 pd-5">
+                  <span class="xis-it-service-shape position-absolute"></span>
+                  <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                  <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                  <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                    <img src="assets4/icon/ic4.png" alt="">
+                  </div> -->
+                  <div class="inner-text position-relative xis-it-headline">
+                    <h3>We help you elevate every customer touchpoint.</h3>
+                    <p class="pt-4">
+                      Our end-to-end customer experience solutions—spanning service, retention, and success—ensure your 
+                      clients stay engaged, loyal, and satisfied as you scale.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="xis-it-service-text-wrapper">
+                <div class="xis-it-section-title xis-it-headline pera-content wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInUp;">
+                  <span>Features</span>
+                  <h2>What we do and Why we do it</h2>
+                  <p>
+                    Stakeholders often require regional expertise and support during both the incorporation and post-incorporation 
+                    phases of their businesses. Setting up a business and securing the necessary licenses from regulators can be a 
+                    complex and time-consuming process, leading to uncertainty and stress. At Ezer, we simplify this journey by 
+                    preparing businesses in advance to meet all regulatory requirements efficiently and effectively.
+                  </p>
+                  <p>
+                    We believe in empowering businesses by sourcing and placing the right talent. Our recruitment services 
+                    span multiple industries, ensuring that the right candidates are matched to your business needs.
+                  </p>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        
     </section>
     <!-- Features End -->
-
+     
     <!-- Why we do it Start -->
     <section id="xis-it-feature-2" class="xis-it-feature-section-2">
       <div class="container">
@@ -803,7 +905,7 @@
                 <div class="xis-it-extra-feature-wrap d-flex">
                   <div class="xis-it-extra-feature-item d-flex align-items-center wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInLeft;">
                     <div class="inner-icon d-flex align-items-center justify-content-center">
-                      <img src="assets4/icon/ic5.png" alt="">
+                      <img src="assets4/icon/building_2.png" alt="">
                     </div>
                     <div class="inner-text xis-it-headline">
                       <h3>We believe business should feel bold, not burdensome. </h3>
@@ -818,9 +920,11 @@
             </div>
             <div class="col-lg-7">
               <div class="xis-it-feature-img-wrap-2 position-relative">
-                <span class="xis-it-ft-shape position-absolute wow fadeInRight" data-wow-delay="800ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 800ms; animation-name: fadeInRight;"><img src="assets4/img/shape/sh7.png" alt=""></span>
+                <!-- <span class="xis-it-ft-shape position-absolute wow fadeInRight" data-wow-delay="800ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 800ms; animation-name: fadeInRight;">
+                  <img src="assets4/img/shape/sh7.png" alt="">
+                </span> -->
                 <div class="xis-it-feature-img1 bg-img-area view-on">
-                  <span class="img-shape position-absolute bg-shape view-on"><img src="assets4/img/shape/sh6.png" alt=""></span>
+                  <!-- <span class="img-shape position-absolute bg-shape view-on"><img src="assets4/img/shape/sh6.png" alt=""></span> -->
                   <img src="assets4/img/bg/ft-bg.jpg" alt="" style="height: 500px; object-fit: cover;">
                 </div>
                 
@@ -833,16 +937,92 @@
     <!-- Why we do it End -->
 
 
+    <!-- Start of service section
+	  ============================================= -->
+    <!-- <section id="xis-it-feature-2" class="xis-it-feature-section-2">
+      <div class="container">
+        <div class="xis-it-feature-content-2">
+          <div class="row">
+            
+            <div class="col-lg-7">
+              <div class="xis-it-feature-img-wrap-2 position-relative ">
+                <span class="xis-it-ft-shape position-absolute wow fadeInRight" data-wow-delay="800ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 800ms; animation-name: fadeInRight;"><img src="assets4/img/shape/sh7.png" alt=""></span>
+                <div class="xis-it-feature-img1 bg-img-area view-on">
+                  <span class="img-shape position-absolute bg-shape view-on"><img src="assets4/img/shape/sh6.png" alt=""></span>
+                  <img src="assets4/img/bg/ft-bg.jpg" alt="" style="height: 500px; object-fit: cover;">
+                </div>
+                
+              </div>
+            </div>
+            <div class="col-lg-5">
+              <div class="xis-it-feature-text-wrap-2 pl-3">
+                <div class="xis-it-section-title xis-it-headline pera-content  wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInUp;">
+                  <span>Our Services</span>
+                  <h2>Our Services</h2>
+                  <p>
+                    At Ezer, we offer a comprehensive suite of services tailored to support businesses at every stage of their journey. 
+                    From initial setup and licensing to ongoing compliance and operational requirements, our expertise ensures your 
+                    company operates smoothly and efficiently. 
+                  </p>
+                </div>
+                <div class="xis-it-extra-feature-wrap d-flex">
+                  <div class="xis-it-extra-feature-item d-flex align-items-center wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInLeft;">
+                    <div class="inner-icon d-flex align-items-center justify-content-center">
+                      <img src="assets4/icon/building_1.png" alt="">
+                    </div>
+                    <div class="inner-text xis-it-headline">
+                      <h3><a href="business.php">Business Consultancy.</a></h3>
+                    </div>
+                  </div>
+                  <div class="xis-it-extra-feature-item d-flex align-items-center wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInLeft;">
+                    <div class="inner-icon d-flex align-items-center justify-content-center">
+                      <img src="assets4/icon/ic1.png" alt="">
+                    </div>
+                    <div class="inner-text xis-it-headline">
+                      <h3><a href="marketing.php">Marketing Services.</a></h3>
+                    </div>
+                  </div>
+                  
+                </div>
+                <div class="xis-it-extra-feature-wrap d-flex">
+                  <div class="xis-it-extra-feature-item d-flex align-items-center wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInLeft;">
+                    <div class="inner-icon d-flex align-items-center justify-content-center">
+                      <img src="assets4/icon/hr.png" alt="">
+                    </div>
+                    <div class="inner-text xis-it-headline">
+                      <h3><a href="hr.php">HR Recruitment.</a></h3>
+                    </div>
+                  </div>
+                  <div class="xis-it-extra-feature-item d-flex align-items-center wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInLeft;">
+                    <div class="inner-icon d-flex align-items-center justify-content-center">
+                      <img src="assets4/icon/ic2.png" alt="">
+                    </div>
+                    <div class="inner-text xis-it-headline">
+                      <h3><a href="customer.php">Customer Experience.</a></h3>
+                    </div>
+                  </div>
+                  
+                </div>
+              </div>
+
+              <div class="xis-it-btn wow fadeInUp mt-5 " data-wow-delay="800ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 800ms; animation-name: fadeInUp;">
+								<a class="d-flex justify-content-center align-items-center" href="services.php">Discover More</a>
+							</div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section> -->
    
 
     
 
 
-    <!-- Start of service section
-	  ============================================= -->
+    
                                                   
     
-    <section id="xis-it-testimonial" class="xis-it-testimonial-section position-relative">
+    <section id="xis-it-service" class="xis-it-testimonial-section position-relative">
       <span class="side-shape1 position-absolute" data-parallax='{"y" : -100}' style="transform:translate3d(0px, -100px, 0px);">
         <img src="assets4/img/shape/sh9.png" alt="">
       </span>
@@ -875,7 +1055,7 @@
             <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
             <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
             <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
-              <img src="assets4/icon/ic7.png" alt="">
+              <img src="assets4/icon/ic1.png" alt="">
             </div>
             <div class="inner-text position-relative xis-it-headline">
               <h3><a href="marketing.php">Marketing Services </a></h3>
@@ -911,6 +1091,7 @@
         </div>
       </div>
     </section>
+
     <!-- End of service  section
 	  ============================================= -->
 

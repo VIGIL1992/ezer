@@ -868,9 +868,10 @@
 .page-title{
 	position:relative;
 	overflow:hidden;
-	padding:155px 0px 190px;
+	/* padding:155px 0px 190px; */
+	padding:60px 0px 130px;
 	/* background-color:var(--color-twentyone); */
-	background-color:#27b0a8;
+	background-color:var(--green-color);
 }
 
 .page-title .cloud-layer{
@@ -927,7 +928,8 @@
 	position:relative;
 	font-weight:600;
 	display:inline-block;
-	color:var(--main-color);
+	/* color:var(--main-color); */
+	color:#fff;
 	font-size:var(--font-18);
 	text-transform:capitalize;
 	margin-right:var(--margin-right-10);
@@ -955,7 +957,8 @@
 
 .page-breadcrumb li a{
 	font-weight:600;
-	color:var(--text-color);
+	/* color:var(--text-color); */
+	color:#fff;
 	text-transform: capitalize;
 	transition:all 0.3s ease;
 	-moz-transition:all 0.3s ease;
