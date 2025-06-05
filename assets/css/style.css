@@ -23,7 +23,13 @@
 @import url('odometer-theme-default.css');
 @import url('jquery.mCustomScrollbar.min.css');
 
-/*** 
+
+
+
+
+
+
+/***
 
 ====================================================================
 	Main Slider Four Section
@@ -871,7 +877,18 @@
 	/* padding:155px 0px 190px; */
 	padding:60px 0px 130px;
 	/* background-color:var(--color-twentyone); */
-	background-color:var(--green-color);
+	/* background-color:var(--green-color); */
+	background: url('../../assets4/img/bg/ser-cta-bg.jpg') center center/cover no-repeat;
+  	z-index: 1;
+}
+
+.page-title::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-color: var(--green-color);
+  opacity: 0.6; /* Adjust opacity as needed */
+  z-index: 0;
 }
 
 .page-title .cloud-layer{
@@ -941,7 +958,7 @@
 	content: '\f061';
 	right:-3px;
 	top:0px;
-	color:var(--main-color);
+	color: #fff;
 	font-size:var(--font-12);
 	font-family: 'FontAwesome';
 }
@@ -2470,7 +2487,7 @@
 	bottom:-2px;
 	width:65px;
 	height:2px;
-	background-color:var(--color-two);
+	background-color:var(--green-color);
 }
 
 /* Service List */
@@ -2875,6 +2892,7 @@
 
 .blog-detail .inner-box p{
 	margin-top:var(--margin-top-15);
+	text-align: justify;
 }
 
 .blog-detail .inner-box blockquote{
@@ -13150,4 +13168,13 @@
 .feature-block-two .inner-box .button-box .theme-btn{
 	padding:12px 38px;
 	width:100%;
+}
+
+
+/* custom */
+
+@media screen and (max-width: 410px) {
+  .title-mobile {
+    font-size: 3rem;
+  }
 }

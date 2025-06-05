@@ -51,14 +51,14 @@
         <!-- Page Title / Style Three -->
         <section class="page-title style-two">
             <div class="pattern-layer-one" style="background-image: url(assets/images/background/pattern-18.png)"></div>
-            <div class="cloud-layer" style="background-image: url(assets/images/background/pattern-19.png)"></div>
-            <div class="big-letter">Business</div>
+            <!-- <div class="cloud-layer" style="background-image: url(assets/images/background/pattern-19.png)"></div> -->
+            <!-- <div class="big-letter">Business</div> -->
             <div class="auto-container">
                 <div class="row clearfix">
                     <!-- Title Column -->
                     <div class="title-column col-lg-12 col-md-12 col-sm-12">
                         <div class="inner-column">
-                            <h1 class="text-white">Business Consultancy</h1>
+                            <h1 class="text-white title-mobile">Business Consultancy</h1>
                             <ul class="page-breadcrumb">
                                 <li><a href="index.php">home</a></li>
                                 <li>Business Consultancy</li>
@@ -98,7 +98,7 @@
                                         scalable, and tailored solutions.
                                     </p>
                                    
-                                    <div>
+                                    <div class="mt-5">
                                         <div class="group-title">
                                             <h4>Our Services</h4>
                                         </div>
@@ -306,7 +306,7 @@
                                         </div>
 
                                         Comment Form
-                                        <form method="post" action="blog.html">
+                                        <form method="post" action="blog.php">
                                             <div class="row clearfix">
 
                                                 <div class="col-lg-6 col-md-6 col-sm-12 form-group">
@@ -375,7 +375,7 @@
                                     <div class="title">
                                         Have Any Project <span>or work together ?</span>
                                     </div>
-                                    <a href="contact.html" class="theme-btn contact-btn">Contact us</a>
+                                    <a href="contact.php" class="theme-btn contact-btn">Contact us</a>
                                     <div class="phone">
                                         <span class="icon flaticon-call-1"></span>
                                         Cal :<a href="tel:+0123-456-7899"> +0123 (456) 7899</a>

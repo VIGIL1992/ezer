@@ -56,6 +56,14 @@
 	
 */
 
+/*=========
+Font load
+===========*/
+/* @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap"); */
+/* @import url("https://fonts.google.com/specimen/Roboto?preview.text=Welcome%20to%20Ezer "); */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
 /* Preloader */
 
 .preloader{ 
@@ -528,25 +536,37 @@
   --dark-border-color:rgb(37,55,63);
   
   /* Fonts Variable */
-  --font-family-Poppins: 'Poppins', sans-serif;
+  --primary-font: 'Roboto', sans-serif;
+
+  /* --font-family-Poppins: 'Poppins', sans-serif; */
+  --font-family-Poppins: var(--primary-font);
   
-  --font-family-barlow: 'Barlow', sans-serif;
+  /* --font-family-barlow: 'Barlow', sans-serif; */
+  --font-family-barlow: var(--primary-font);
   
-  --font-family-ibm: 'IBM Plex Sans', sans-serif;
+  /* --font-family-ibm: 'IBM Plex Sans', sans-serif; */
+  --font-family-ibm: var(--primary-font);
   
-  --font-family-exo: 'Exo', sans-serif;
+  /* --font-family-exo: 'Exo', sans-serif; */
+  --font-family-exo: var(--primary-font);
   
-  --font-family-exo-2: 'Exo 2', sans-serif;
+  /* --font-family-exo-2: 'Exo 2', sans-serif; */
+  --font-family-exo-2: var(--primary-font);
   
-  --font-family-playfair: 'Playfair Display', serif;
+  /* --font-family-playfair: 'Playfair Display', serif; */
+  --font-family-playfair: var(--primary-font);
   
-  --font-family-Roboto: 'Roboto', sans-serif;
+  /* --font-family-Roboto: 'Roboto', sans-serif; */
+   --font-family-Roboto: var(--primary-font);
   
-  --font-family-Futura: 'Futura PT Demi';
+  /* --font-family-Futura: 'Futura PT Demi'; */
+  --font-family-Futura: var(--primary-font);
   
-  --font-family-FuturaBold: 'Futura PT';
+  /* --font-family-FuturaBold: 'Futura PT'; */
+  --font-family-FuturaBold: var(--primary-font);
   
-  --font-family-DmSans: 'DM Sans', sans-serif;
+  /* --font-family-DmSans: 'DM Sans', sans-serif; */
+  --font-family-DmSans: var(--primary-font);
   
 /* Heading Fonts */
   
@@ -962,6 +982,7 @@ h1{
 	font-weight:600;
 	font-size:var(--font-70);
 }
+
 
 h2{
 	line-height:1.2em;

@@ -47,8 +47,8 @@
         <!-- Page Title / Style Three -->
         <section class="page-title style-two">
             <div class="pattern-layer-one" style="background-image: url(assets/images/background/pattern-18.png)"></div>
-            <div class="cloud-layer" style="background-image: url(assets/images/background/pattern-19.png)"></div>
-            <div class="big-letter">Marketing</div>
+            <!-- <div class="cloud-layer" style="background-image: url(assets/images/background/pattern-19.png)"></div> -->
+            <!-- <div class="big-letter">Marketing</div> -->
             <div class="auto-container">
                 <div class="row clearfix">
                     <!-- Title Column -->
@@ -84,11 +84,12 @@
                                         <li>Design</li>
                                         <li>2022, Feb 25</li>
                                     </ul> -->
-                                    <h3>Marketing Services</h3>
-                                    <ul class="post-info">
+                                    <h3 class="pb-1">Marketing Services</h3>
+                                    <h5>At Ezer, we bridge the gap between vision and visibility.</h5>
+                                    <!-- <ul class="post-info">
                                         <li>At Ezer, we bridge the gap between vision and visibility.</li>
-                                        <!-- <li>2022, Feb 25</li> -->
-                                    </ul>
+                                        <li>2022, Feb 25</li>
+                                    </ul> -->
                                     <p>
                                         Our marketing services are crafted to elevate your brand with purpose—from high-level strategic 
                                         planning to on-the-ground execution that drives engagement, demand, and growth. We offer Fractional 
@@ -109,7 +110,7 @@
                                         <div class="designation">Rasalina Willamson</div>
                                     </blockquote> -->
                                     
-                                    <div>
+                                    <div class="mt-5">
                                         <div class="group-title">
                                             <h4>Strategic Marketing</h4>
                                         </div>
@@ -158,7 +159,7 @@
                                         }
 
                                     </style>
-                                    <div class="pt-5">
+                                    <div class="mt-5">
                                         <div class="group-title">
                                             <h4>Field Marketing & Market Activation</h4>
                                         </div>
@@ -226,7 +227,7 @@
                                     <div class="title">
                                         Have Any Project <span>or work together ?</span>
                                     </div>
-                                    <a href="contact.html" class="theme-btn contact-btn">Contact us</a>
+                                    <a href="contact.php" class="theme-btn contact-btn">Contact us</a>
                                     <div class="phone">
                                         <span class="icon flaticon-call-1"></span>
                                         Cal :<a href="tel:+0123-456-7899"> +0123 (456) 7899</a>

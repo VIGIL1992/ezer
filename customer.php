@@ -46,8 +46,8 @@
         <!-- Page Title / Style Three -->
         <section class="page-title style-two">
             <div class="pattern-layer-one" style="background-image: url(assets/images/background/pattern-18.png)"></div>
-            <div class="cloud-layer" style="background-image: url(assets/images/background/pattern-19.png)"></div>
-            <div class="big-letter">Customer Experience</div>
+            <!-- <div class="cloud-layer" style="background-image: url(assets/images/background/pattern-19.png)"></div> -->
+            <!-- <div class="big-letter">Customer Experience</div> -->
             <div class="auto-container">
                 <div class="row clearfix">
                     <!-- Title Column -->
@@ -100,7 +100,7 @@
                                         aiming to deepen client relationships, we bring clarity, structure, and purpose to every customer 
                                         touchpoint.
                                    </p>
-                                    <div>
+                                    <div class="mt-5">
                                         <div class="group-title">
                                             <h4>What We Deliver</h4>
                                         </div>
@@ -194,7 +194,7 @@
                                     <div class="title">
                                         Have Any Project <span>or work together ?</span>
                                     </div>
-                                    <a href="contact.html" class="theme-btn contact-btn">Contact us</a>
+                                    <a href="contact.php" class="theme-btn contact-btn">Contact us</a>
                                     <div class="phone">
                                         <span class="icon flaticon-call-1"></span>
                                         Cal :<a href="tel:+0123-456-7899"> +0123 (456) 7899</a>

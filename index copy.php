@@ -541,7 +541,33 @@
                 <img src="assets4/shape6.png" alt="" class="tp-rs-img" width="134" height="244" data-no-retina> 
               </rs-layer>
               <!-- 	-->
-              				
+              <!-- <rs-layer
+                id="slider-2-slide-9-layer-8" 
+                data-type="text"
+                data-rsp_ch="on"
+                data-xy="x:c;xo:50px,41px,31px,9px;y:m;yo:145px,119px,104px,76px;"
+                data-text="w:normal;s:20,16,12,7;l:25,20,15,9;"
+                data-dim="w:auto,auto,auto,269px;"
+                data-frame_0="x:-175%;o:1;"
+                data-frame_0_mask="u:t;x:100%;"
+                data-frame_1="e:power3.out;st:2500;sp:1500;"
+                data-frame_1_mask="u:t;"
+                data-frame_999="o:0;st:w;"
+                style="z-index:15;font-family:var(--primary-font);"
+                >
+                <div id="mc_embed_signup">
+                  <form action="#" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate=""><br />
+                    <div id="mc_embed_signup_scroll">
+                      <input type="text" value="" name="search" class="email" id="mce-EMAIL" placeholder="Search Your Keyword" required="">
+                      <div style="position: absolute; left: -5000px;">
+                        <input type="text" name="b_a5738148e5ec630766e28de16_3e718acc63" tabindex="-1" value="">
+                      </div>
+                      <input type="submit" value="Search" name="subscribe" id="mc-embedded-subscribe" class="button">
+                    </div>
+                  </form>
+                </div> 
+              </rs-layer> -->
+              <!-- 	-->						
             </rs-slide>
          
           </rs-slides>
@@ -698,171 +724,6 @@
     <!-- End of About section
 	  ============================================= -->
 
-    <section id="xis-it-system-feature" class="xis-it-system-feature-section position-relative" data-background="assets4/img/bg/ft-bg.jpg" style="background-image: url(&quot;assets4/img/bg/ft-bg.jpg&quot;);">
-      <span class="xis-it-sf-shape1 position-absolute" data-parallax="{&quot;x&quot; : -150}" style="transform:translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-        <img src="assets4/img/shape/sh1.png" alt="">
-      </span>
-      <span class="xis-it-sf-line-sh1 position-absolute" data-parallax="{&quot;y&quot; : -50}" style="transform:translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 0px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-        <img src="assets4/img/shape/sh2.png" alt="">
-      </span>
-      <span class="xis-it-sf-line-sh2 position-absolute" data-parallax="{&quot;y&quot; : 10}" style="transform:translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); -webkit-transform:translate3d(0px, 0.029px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scaleX(1) scaleY(1) scaleZ(1); ">
-        <img src="assets4/img/shape/sh3.png" alt="">
-      </span>
-      <span class="xis-it-sf-outer-shape1"></span>
-      <span class="xis-it-sf-outer-shape2"></span>
-      <div class="container">
-        <div class="xis-it-system-feature-content">
-          <div class="row ">
-            <div class="col-lg-7">
-              <div class="xis-it-system-feature-text-wrap xis-it-headline pera-content">
-                <h3 class="wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInUp;">
-                  What we do and why we do it
-                </h3>
-                <h2 class="wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInUp;">
-				          <!-- Stakeholders often require support throughout the licensing process with regulators.  -->
-                </h2>
-                <p class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                    At Ezer, we simplify the business journey for companies entering or expanding in the UAE. From incorporation 
-                    to growth, we offer curated support designed to eliminate complexity and accelerate momentum.
-                    <br>
-                </p>
-
-                <h4 class="wow fadeInUp text-white pb-2" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                  We help you get started—fast.
-                </h4>
-                <p class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                    Whether it’s securing the right license or navigating regulatory requirements, we prepare businesses to launch with clarity and confidence.
-                </p>
-
-                <h4 class="wow fadeInUp text-white pb-2" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                  We take your brand to market.
-                </h4>
-                <p class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                    Our marketing services combine strategy and execution—from positioning and planning to field campaigns and 
-                    go-to-market activations—designed to generate awareness, engagement, and growth.
-                </p>
-
-                <h4 class="wow fadeInUp text-white pb-2" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                  We help you build your team.
-                </h4>
-                <p class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                    Our bespoke talent sourcing focuses on headhunting high-impact professionals across industries, ensuring 
-                    the right people are in place from day one.
-                </p>
-
-                <h4 class="wow fadeInUp text-white pb-2" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                  We help you elevate every customer touchpoint.
-                </h4>
-                <p class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                    Our end-to-end customer experience solutions—spanning service, retention, and success—ensure your 
-                    clients stay engaged, loyal, and satisfied as you scale.
-                </p>
-
-                <!-- <h3 class="wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInUp;">
-                  Why we do it
-                </h3>
-                <h4 class="wow fadeInUp text-white pb-2" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                 We believe business should feel bold, not burdensome. 
-                </h4>
-                <p class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                   Starting up or scaling in a new market comes with complexity—but it doesn’t have to feel that way. 
-                   At Ezer, we remove the friction, bring regional clarity, and create space for founders and teams 
-                   to focus on what matters: building, growing, and thriving.
-                </p> -->
-                
-                <!-- <div
-                  class="xis-it-btn wow fadeInUp"
-                  data-wow-delay="500ms"
-                  data-wow-duration="1500ms"
-                  >
-                  <a
-                    class="d-flex justify-content-center align-items-center"
-                    href="about.html"
-                    >
-                    Discover More
-                  </a>
-                </div> -->
-              </div>
-            </div>
-
-            <div class="col-lg-5 wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1500ms" style=" visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInRight;">
-              <div class="xis-it-system-feature-list-wrap position-relative">
-                <div class="xis-it-system-feature-list position-relative xis-it-headline ul-li" data-background="assets4/img/bg/ft-shape1.png" style="background-image: url(&quot;assets4/img/bg/ft-shape1.png&quot;);">
-                  <h3>Why we do it</h3>
-                  <h5>We believe business should feel bold, not burdensome.</h5>
-                  <!-- <ul>
-                    <li>We believe business should feel bold, not burdensome.  </li><br>
-                    <li>Marketing Services  </li><br>
-                    <li>HR Recruitment </li><br><br>
-                    <li>Customer Experience </li><br>
-                   
-                  </ul> -->
-
-                <p class="wow fadeInUp mt-1" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                   Starting up or scaling in a new market comes with complexity, but it doesn’t have to feel that way. 
-                   At Ezer, we remove the friction, bring regional clarity, and create space for founders and teams 
-                   to focus on what matters: building, growing, and thriving.
-                </p>
-                  <!-- <div class="xis-it-extra-feature-wrap d-flex">
-                    <div class="xis-it-extra-feature-item d-flex align-items-center wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInLeft;">
-                      <div class="inner-icon d-flex align-items-center justify-content-center">
-                        <img src="assets4/icon/building_1.png" alt="">
-                      </div>
-                      <div class="inner-text xis-it-headline">
-                        <h4 style="padding-bottom: 0; color: #000;"><a href="business.php"> Business Consultancy.</a> </h4>
-                      </div>
-                    </div>
-                  </div>  -->
-
-                  <!-- <div class="xis-it-extra-feature-wrap d-flex">
-                    <div class="xis-it-extra-feature-item d-flex align-items-center wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInLeft;">
-                      <div class="inner-icon d-flex align-items-center justify-content-center">
-                        <img src="assets4/icon/ic1.png" alt="">
-                      </div>
-                      <div class="inner-text xis-it-headline">
-                        <h4 style="padding-bottom: 0; "><a href="marketing.php" style="color: #000;">Marketing Services.</a> </h4>
-                      </div>
-                    </div>
-                  </div>  -->
-                  
-                  <!-- <div class="xis-it-extra-feature-wrap d-flex">
-                    <div class="xis-it-extra-feature-item d-flex align-items-center wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInLeft;">
-                      <div class="inner-icon d-flex align-items-center justify-content-center">
-                        <img src="assets4/icon/hr.png" alt="">
-                      </div>
-                      <div class="inner-text xis-it-headline">
-                        <h4 style="padding-bottom: 0; "><a href="hr.php" style="color: #000;">HR Recruitment.</a> </h4>
-                      </div>
-                    </div>
-                  </div>  -->
-
-                  <!-- <div class="xis-it-extra-feature-wrap d-flex">
-                    <div class="xis-it-extra-feature-item d-flex align-items-center wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInLeft;">
-                      <div class="inner-icon d-flex align-items-center justify-content-center">
-                        <img src="assets4/icon/ic2.png" alt="">
-                      </div>
-                      <div class="inner-text xis-it-headline">
-                        <h4 style="padding-bottom: 0; "><a href="customer.php" style="color: #000;">Customer Experience.</a> </h4>
-                      </div>
-                    </div>
-                  </div>  -->
-
-                </div>
-                <!-- <div class="appoint-btn text-center">
-                  <a
-                    class="d-flex justify-content-center align-items-center"
-                    href="#xis-it-service"
-                    >Get It Now
-                    <i class="fas fa-arrow-circle-right"></i
-                    >
-                  </a>
-                </div> -->
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
     
     <!-- Features Start -->
     <!-- <section id="xis-it-pricing" class="xis-it-pricing-section position-relative" data-background="assets4/img/bg/price-bg.jpg" style="background-image: url(&quot;assets4/img/bg/price-bg.jpg&quot;);">
@@ -932,7 +793,7 @@
     </section> -->
    
 
-    <!-- <section id="xis-it-What we do" class="xis-it-service-section" data-background="assets4/img/bg/ser-bg.png" style="background-image: url(&quot;assets4/img/bg/ser-bg.png&quot;); padding-top: 80px;">
+    <section id="xis-it-What we do" class="xis-it-service-section" data-background="assets4/img/bg/ser-bg.png" style="background-image: url(&quot;assets4/img/bg/ser-bg.png&quot;); padding-top: 80px;">
       <div class="container">
         <div class="xis-it-service-content">
           <div class="row">
@@ -942,9 +803,9 @@
                   <span class="xis-it-service-shape position-absolute"></span>
                   <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
                   <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
-                  <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                  <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
                     <img src="assets4/icon/ic1.png" alt="">
-                  </div>
+                  </div> -->
                   <div class="inner-text position-relative xis-it-headline">
                     <h3 >We help you get started—fast</h3>
                     <p class="pt-4">
@@ -957,9 +818,9 @@
                   <span class="xis-it-service-shape position-absolute"></span>
                   <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
                   <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
-                  <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                  <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
                     <img src="assets4/icon/ic2.png" alt="">
-                  </div>
+                  </div> -->
                   <div class="inner-text position-relative xis-it-headline">
                     <h3>We take your brand to market.</h3>
                     <p class="pt-4">
@@ -972,9 +833,9 @@
                   <span class="xis-it-service-shape position-absolute"></span>
                   <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
                   <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
-                  <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
-                    <img src="assets4/icon/kyc.png" alt="">
-                  </div>
+                  <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                    <img src="assets4/icon/ic3.png" alt="">
+                  </div> -->
                   <div class="inner-text position-relative xis-it-headline">
                     <h3>We help you build your team</h3>
                     <p class="pt-4">
@@ -987,9 +848,9 @@
                   <span class="xis-it-service-shape position-absolute"></span>
                   <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
                   <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
-                  <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                  <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
                     <img src="assets4/icon/ic4.png" alt="">
-                  </div>
+                  </div> -->
                   <div class="inner-text position-relative xis-it-headline">
                     <h3>We help you elevate every customer touchpoint.</h3>
                     <p class="pt-4">
@@ -1022,11 +883,11 @@
           </div>
         </div>
         
-    </section> -->
+    </section>
     <!-- Features End -->
      
     <!-- Why we do it Start -->
-    <!-- <section id="xis-it-feature-2" class="xis-it-feature-section-2">
+    <section id="xis-it-feature-2" class="xis-it-feature-section-2">
       <div class="container">
         <div class="xis-it-feature-content-2">
           <div class="row">
@@ -1052,18 +913,18 @@
                   </div>
                   
                 </div>
-                <div class="xis-it-btn wow fadeInUp" data-wow-delay="800ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 800ms; animation-name: fadeInUp;">
+                <!-- <div class="xis-it-btn wow fadeInUp" data-wow-delay="800ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 800ms; animation-name: fadeInUp;">
                   <a class="d-flex justify-content-center align-items-center" href="about.html">Discover More</a>
-                </div>
+                </div> -->
               </div>
             </div>
             <div class="col-lg-7">
               <div class="xis-it-feature-img-wrap-2 position-relative">
-                <span class="xis-it-ft-shape position-absolute wow fadeInRight" data-wow-delay="800ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 800ms; animation-name: fadeInRight;">
+                <!-- <span class="xis-it-ft-shape position-absolute wow fadeInRight" data-wow-delay="800ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 800ms; animation-name: fadeInRight;">
                   <img src="assets4/img/shape/sh7.png" alt="">
-                </span>
+                </span> -->
                 <div class="xis-it-feature-img1 bg-img-area view-on">
-                  <span class="img-shape position-absolute bg-shape view-on"><img src="assets4/img/shape/sh6.png" alt=""></span>
+                  <!-- <span class="img-shape position-absolute bg-shape view-on"><img src="assets4/img/shape/sh6.png" alt=""></span> -->
                   <img src="assets4/img/bg/ft-bg.jpg" alt="" style="height: 500px; object-fit: cover;">
                 </div>
                 
@@ -1072,7 +933,7 @@
           </div>
         </div>
       </div>
-    </section> -->
+    </section>
     <!-- Why we do it End -->
 
 
@@ -1088,7 +949,7 @@
                 <span class="xis-it-ft-shape position-absolute wow fadeInRight" data-wow-delay="800ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 800ms; animation-name: fadeInRight;"><img src="assets4/img/shape/sh7.png" alt=""></span>
                 <div class="xis-it-feature-img1 bg-img-area view-on">
                   <span class="img-shape position-absolute bg-shape view-on"><img src="assets4/img/shape/sh6.png" alt=""></span>
-                  <img src="assets4/img/service/business.jpg" alt="" style="height: 500px; object-fit: cover;">
+                  <img src="assets4/img/bg/ft-bg.jpg" alt="" style="height: 500px; object-fit: cover;">
                 </div>
                 
               </div>
@@ -1171,70 +1032,62 @@
       <div class="container">
         <div class="xis-it-section-title text-center xis-it-headline pera-content wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
           <span>Our Services</span>
-          <!-- <h2>Our Services</h2> -->
+          <h2>Our Services</h2>
         </div>
         
         <!-- New 4-card layout -->
         <div class="xis-it-service-inner-items d-flex flex-wrap justify-content-center wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
-          <a href="business.php" class="m-3">
-            <div class="xis-it-service-item position-relative text-center">
-              <span class="xis-it-service-shape position-absolute"></span>
-              <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
-              <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
-              <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
-                <img src="assets4/icon/building_1.png" alt="">
-              </div>
-              <div class="inner-text position-relative xis-it-headline">
-                <h3>Business Consultancy </h3>
-                <!-- <p>Ezer provides comprehensive support for businesses looking to establish a presence in the UAE.</p> -->
-              </div>
+          <div class="xis-it-service-item position-relative text-center">
+            <span class="xis-it-service-shape position-absolute"></span>
+            <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+            <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+            <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+              <img src="assets4/icon/building_1.png" alt="">
             </div>
-          </a>
+            <div class="inner-text position-relative xis-it-headline">
+              <h3><a href="business.php">Business Consultancy </a></h3>
+              <p>Ezer provides comprehensive support for businesses looking to establish a presence in the UAE.</p>
+            </div>
+          </div>
 
-          <a href="marketing.php" class="m-3">
-            <div class="xis-it-service-item position-relative text-center">
-              <span class="xis-it-service-shape position-absolute"></span>
-              <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
-              <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
-              <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
-                <img src="assets4/icon/ic1.png" alt="">
-              </div>
-              <div class="inner-text position-relative xis-it-headline">
-                <h3>Marketing Services </h3>
-                <!-- <p>At Ezer, we bridge the gap between vision and visibility.</p> -->
-              </div>
+          <div class="xis-it-service-item position-relative text-center">
+            <span class="xis-it-service-shape position-absolute"></span>
+            <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+            <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+            <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+              <img src="assets4/icon/ic1.png" alt="">
             </div>
-          </a>
+            <div class="inner-text position-relative xis-it-headline">
+              <h3><a href="marketing.php">Marketing Services </a></h3>
+              <p>At Ezer, we bridge the gap between vision and visibility.</p>
+            </div>
+          </div>
 
-          <a href="hr.php" class="m-3">
-            <div class="xis-it-service-item position-relative text-center">
-              <span class="xis-it-service-shape position-absolute"></span>
-              <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
-              <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
-              <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
-                <img src="assets4/icon/hr.png" alt="">
-              </div>
-              <div class="inner-text position-relative xis-it-headline">
-                <h3>HR Recruitment </h3>
-                <!-- <p>Ezer specializes in recruitment services, sourcing and placing the right candidates across various industries.</p> -->
-              </div>
+          <div class="xis-it-service-item position-relative text-center">
+            <span class="xis-it-service-shape position-absolute"></span>
+            <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+            <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+            <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+              <img src="assets4/icon/hr.png" alt="">
             </div>
-          </a>
+            <div class="inner-text position-relative xis-it-headline">
+              <h3><a href="hr.php">HR Recruitment </a></h3>
+              <p>Ezer specializes in recruitment services, sourcing and placing the right candidates across various industries.</p>
+            </div>
+          </div>
 
-          <a href="customer.php" class="m-3">
-            <div class="xis-it-service-item position-relative text-center">
-              <span class="xis-it-service-shape position-absolute"></span>
-              <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
-              <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
-              <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
-                <img src="assets4/icon/ic2.png" alt="">
-              </div>
-              <div class="inner-text position-relative xis-it-headline">
-                <h3>Customer Experience</h3>
-                <!-- <p>At Ezer, we design customer experiences that go beyond satisfaction.</p> -->
-              </div>
+          <div class="xis-it-service-item position-relative text-center">
+            <span class="xis-it-service-shape position-absolute"></span>
+            <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+            <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+            <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+              <img src="assets4/icon/ic2.png" alt="">
             </div>
-          </a>
+            <div class="inner-text position-relative xis-it-headline">
+              <h3><a href="customer.php">Customer Experience</a></h3>
+              <p>At Ezer, we design customer experiences that go beyond satisfaction.</p>
+            </div>
+          </div>
         </div>
       </div>
     </section>
