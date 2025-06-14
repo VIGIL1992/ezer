@@ -16,7 +16,7 @@
 
 
     <?php
-			include('inc/header.php')
+			include('inc/header.php');
 		?>
   </head>
   <body class="xis-it-body">
@@ -575,7 +575,7 @@
                     data-wow-delay="400ms"
                     data-wow-duration="1500ms"
                   >
-                    <img src="assets4/img/about/ab2.png" alt="" />
+                    <img src="assets4/img/about/ab2.jpeg" alt="ab2" style="border-top-right-radius: 60px;"/>
                   </div>
                   <div class="xis-it-about-exp-wrap position-relative">
                     <span class="map-bg position-absolute"
@@ -609,13 +609,13 @@
                     >
                     <!-- Our mission is to offer strategic guidance and support. -->
                   </h2>
-                  <p style="text-align: justify;">
+                  <p >
                     Ezer empowers businesses to establish, grow, and thrive in the UAE through a curated suite of strategic 
                     services. From brand-led marketing that creates impact to precision headhunting that secures top talent, 
                     we help companies move with clarity, purpose, and confidence.
                     <br/><br/>
                     Our multidisciplinary expertise spans business consultancy, marketing, human capital, and customer 
-                    experience management. Whether you're entering the UAE market, scaling operations, or optimising client 
+                    experience management. Whether you are entering the UAE market, scaling operations, or optimising client 
                     engagement, Ezer delivers actionable solutions built on deep regulatory knowledge and regional insight.
                     <br/><br/>
 
@@ -629,14 +629,14 @@
                                       <img src="assets7/img/shape/hv-sh1.png" alt="">
                                   </span> -->
                                   <div class="xis-dia-service-icon position-relative">
-                                      <img src="assets4/img/mission.png" alt="" style="max-height: 80px;margin-bottom: 20px;">
+                                      <img src="assets4/img/mission.png" alt="" style="max-height: 60px;margin-bottom: 20px;">
                                   </div>
                                   <div class="xis-dia-service-text xis-dia-headline pera-content">
-                                      <h3><a href="service-detail.html">Mission</a></h3>
+                                      <h3><a href="#xis-it-about">Mission</a></h3>
                                       <p>
-                                        Our mission is to empower businesses to establish, grow, and succeed in dynamic markets—starting 
-                                        with the UAE—by providing expert guidance, regional insight, and tailored support throughout 
-                                        every stage of their journey.
+                                        Our mission is to empower businesses to establish, grow, and thrive in dynamic markets, 
+                                        beginning with the UAE, by delivering expert guidance, regional insight, and tailored 
+                                        support at every stage of their journey.
                                       </p>
                                   </div>
                                   <!-- <div class="xis-dia-service-more">
@@ -650,10 +650,10 @@
                                       <img src="assets7/img/shape/hv-sh1.png" alt="">
                                   </span> -->
                                   <div class="xis-dia-service-icon position-relative">
-                                      <img src="assets4/img/vision.png" alt="" style="max-height: 80px;margin-bottom: 20px;">
+                                      <img src="assets4/img/vision.png" alt="" style="max-height: 60px;margin-bottom: 20px;">
                                   </div>
                                   <div class="xis-dia-service-text xis-dia-headline pera-content">
-                                      <h3><a href="service-detail.html">Vision</a></h3>
+                                      <h3><a href="#xis-it-about">Vision</a></h3>
                                       <p>
                                         Our vision is to be the most trusted partner for businesses expanding into new markets, with a strong 
                                         foundation in the GCC, delivering strategic guidance, local expertise, and long-term support to drive 
@@ -716,30 +716,33 @@
             <div class="col-lg-7">
               <div class="xis-it-system-feature-text-wrap xis-it-headline pera-content">
                 <h3 class="wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInUp;">
-                  What we do and why we do it
+                  Accelerate Growth with a Trusted Partner
                 </h3>
                 <h2 class="wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInUp;">
 				          <!-- Stakeholders often require support throughout the licensing process with regulators.  -->
                 </h2>
                 <p class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                    At Ezer, we simplify the business journey for companies entering or expanding in the UAE. From incorporation 
-                    to growth, we offer curated support designed to eliminate complexity and accelerate momentum.
+                    At Ezer, we simplify the business journey for companies entering or expanding in the UAE. 
+                    From incorporation to sustained growth, we provide tailored support to reduce complexity 
+                    and accelerate progress.
                     <br>
                 </p>
 
                 <h4 class="wow fadeInUp text-white pb-2" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                  We help you get started—fast.
+                  We help you get started fast:
                 </h4>
                 <p class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                    Whether it’s securing the right license or navigating regulatory requirements, we prepare businesses to launch with clarity and confidence.
+                    Whether it is securing the right license or navigating regulatory frameworks, we prepare 
+                    your business to launch with clarity and confidence.
                 </p>
 
                 <h4 class="wow fadeInUp text-white pb-2" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                  We take your brand to market.
+                  We take your brand to market:
                 </h4>
                 <p class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                    Our marketing services combine strategy and execution—from positioning and planning to field campaigns and 
-                    go-to-market activations—designed to generate awareness, engagement, and growth.
+                    Our marketing services combine strategy with execution, covering everything from positioning 
+                    and planning to field campaigns and go-to-market activations. These are designed to drive 
+                    awareness, engagement, and growth.
                 </p>
 
                 <h4 class="wow fadeInUp text-white pb-2" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
@@ -751,24 +754,23 @@
                 </p>
 
                 <h4 class="wow fadeInUp text-white pb-2" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                  We help you elevate every customer touchpoint.
+                  We help you build your team:
                 </h4>
                 <p class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                    Our end-to-end customer experience solutions—spanning service, retention, and success—ensure your 
-                    clients stay engaged, loyal, and satisfied as you scale.
+                    Our bespoke talent sourcing focuses on headhunting high-impact professionals across industries, 
+                    ensuring you have the right people in place from day one.
                 </p>
 
                 <!-- <h3 class="wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInUp;">
                   Why we do it
-                </h3>
+                </h3> -->
                 <h4 class="wow fadeInUp text-white pb-2" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                 We believe business should feel bold, not burdensome. 
+                 We elevate every customer touchpoint:
                 </h4>
                 <p class="wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                   Starting up or scaling in a new market comes with complexity—but it doesn’t have to feel that way. 
-                   At Ezer, we remove the friction, bring regional clarity, and create space for founders and teams 
-                   to focus on what matters: building, growing, and thriving.
-                </p> -->
+                   Our end-to-end customer experience solutions, spanning service, retention, and success, keep your 
+                   clients engaged, loyal, and satisfied as your business scales.
+                </p> 
                 
                 <!-- <div
                   class="xis-it-btn wow fadeInUp"
@@ -787,67 +789,29 @@
 
             <div class="col-lg-5 wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1500ms" style=" visibility: visible; animation-duration: 1500ms; animation-delay: 200ms; animation-name: fadeInRight;">
               <div class="xis-it-system-feature-list-wrap position-relative">
-                <div class="xis-it-system-feature-list position-relative xis-it-headline ul-li" data-background="assets4/img/bg/ft-shape1.png" style="background-image: url(&quot;assets4/img/bg/ft-shape1.png&quot;);">
-                  <h3>Why we do it</h3>
-                  <h5>We believe business should feel bold, not burdensome.</h5>
-                  <!-- <ul>
-                    <li>We believe business should feel bold, not burdensome.  </li><br>
-                    <li>Marketing Services  </li><br>
-                    <li>HR Recruitment </li><br><br>
-                    <li>Customer Experience </li><br>
-                   
-                  </ul> -->
-
-                <p class="wow fadeInUp mt-1" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp;">
-                   Starting up or scaling in a new market comes with complexity, but it doesn’t have to feel that way. 
-                   At Ezer, we remove the friction, bring regional clarity, and create space for founders and teams 
-                   to focus on what matters: building, growing, and thriving.
-                </p>
-                  <!-- <div class="xis-it-extra-feature-wrap d-flex">
-                    <div class="xis-it-extra-feature-item d-flex align-items-center wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInLeft;">
-                      <div class="inner-icon d-flex align-items-center justify-content-center">
-                        <img src="assets4/icon/building_1.png" alt="">
-                      </div>
-                      <div class="inner-text xis-it-headline">
-                        <h4 style="padding-bottom: 0; color: #000;"><a href="business.php"> Business Consultancy.</a> </h4>
-                      </div>
-                    </div>
-                  </div>  -->
-
-                  <!-- <div class="xis-it-extra-feature-wrap d-flex">
-                    <div class="xis-it-extra-feature-item d-flex align-items-center wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInLeft;">
-                      <div class="inner-icon d-flex align-items-center justify-content-center">
-                        <img src="assets4/icon/ic1.png" alt="">
-                      </div>
-                      <div class="inner-text xis-it-headline">
-                        <h4 style="padding-bottom: 0; "><a href="marketing.php" style="color: #000;">Marketing Services.</a> </h4>
-                      </div>
-                    </div>
-                  </div>  -->
-                  
-                  <!-- <div class="xis-it-extra-feature-wrap d-flex">
-                    <div class="xis-it-extra-feature-item d-flex align-items-center wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInLeft;">
-                      <div class="inner-icon d-flex align-items-center justify-content-center">
-                        <img src="assets4/icon/hr.png" alt="">
-                      </div>
-                      <div class="inner-text xis-it-headline">
-                        <h4 style="padding-bottom: 0; "><a href="hr.php" style="color: #000;">HR Recruitment.</a> </h4>
-                      </div>
-                    </div>
-                  </div>  -->
-
-                  <!-- <div class="xis-it-extra-feature-wrap d-flex">
-                    <div class="xis-it-extra-feature-item d-flex align-items-center wow fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 400ms; animation-name: fadeInLeft;">
-                      <div class="inner-icon d-flex align-items-center justify-content-center">
-                        <img src="assets4/icon/ic2.png" alt="">
-                      </div>
-                      <div class="inner-text xis-it-headline">
-                        <h4 style="padding-bottom: 0; "><a href="customer.php" style="color: #000;">Customer Experience.</a> </h4>
-                      </div>
-                    </div>
-                  </div>  -->
-
+                <!-- <div class="xis-it-system-feature-list position-relative xis-it-headline ul-li" data-background="assets4/img/bg/ft-shape1.png" style="background-image: url(&quot;assets4/img/bg/ft-shape1.png&quot;);"> -->
+                <div class="xis-it-system-feature-list position-relative xis-it-headline ul-li">
+                  <h3 style="    font-size: 30px;font-weight: 500;">The Heart of Our Mission</h3>
+                  <h5 style="color: #fff;">
+                    We believe business should feel bold, not burdensome.
+                  </h5>
+                  <br>
+                  <p class="wow fadeInUp mt-1" data-wow-delay="500ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 500ms; animation-name: fadeInUp; color:#fff;">
+                    Whether you are starting up or scaling in a new or existing market, complexity is inevitable; 
+                    however, it does not have to be overwhelming. At Ezer, we remove friction, provide regional 
+                    clarity, and create space for founders and teams to focus on what truly matters: building, 
+                    growing, and thriving.
+                  </p>
+                 
                 </div>
+
+                <style>
+                  @media (min-width: 992px) {
+                    .xis-it-system-feature-list {
+                      margin-top: 200px;
+                    }
+                  }
+                </style>
                 <!-- <div class="appoint-btn text-center">
                   <a
                     class="d-flex justify-content-center align-items-center"
@@ -1165,9 +1129,9 @@
       <span class="side-shape1 position-absolute" data-parallax='{"y" : -100}' style="transform:translate3d(0px, -100px, 0px);">
         <img src="assets4/img/shape/sh9.png" alt="">
       </span>
-      <span class="side-shape2 position-absolute" data-parallax='{"x" : 50}' style="transform:translate3d(50px, 0px, 0px);">
+      <!-- <span class="side-shape2 position-absolute" data-parallax='{"x" : 50}' style="transform:translate3d(50px, 0px, 0px);">
         <img src="assets4/img/shape/sh11.png" alt="">
-      </span>
+      </span> -->
       <div class="container">
         <div class="xis-it-section-title text-center xis-it-headline pera-content wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
           <span>Our Services</span>
@@ -1235,6 +1199,23 @@
               </div>
             </div>
           </a>
+
+          <a href="compliance_services.php" class="m-3">
+            <div class="xis-it-service-item position-relative text-center">
+              <span class="xis-it-service-shape position-absolute"></span>
+              <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+              <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+              <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                <img src="assets4/icon/ic1.png" alt="">
+              </div>
+              <div class="inner-text position-relative xis-it-headline">
+                <h3>Compliance Services</h3>
+                <!-- <p>At Ezer, we design customer experiences that go beyond satisfaction.</p> -->
+              </div>
+            </div>
+          </a>
+
+
         </div>
       </div>
     </section>

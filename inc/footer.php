@@ -77,8 +77,8 @@
                       <li><a href="marketing.php">Marketing Services </a></li>
                       <li><a href="hr.php">HR Recruitment </a></li>
                       <li><a href="customer.php">Customer Experience </a></li>
-                      <!-- <li><a href="index.php#xis-it-service">Business Consultancy</a></li>
-                      <li><a href="index.php#xis-it-service">Human Resources</a></li>
+                      <li><a href="compliance_services.php">Compliance Services</a></li>
+                      <!-- <li><a href="index.php#xis-it-service">Human Resources</a></li>
                       <li><a href="index.php#xis-it-service">Compliance Services</a></li> -->
                     </ul>
                   </div>
@@ -91,7 +91,7 @@
                     <ul>
                       <li><a href="index.php">Home</a></li>
                       <li><a href="index.php#xis-it-about">About</a></li>
-                      <li><a href="services.php">Services</a></li>
+                      <li><a href="index.php#xis-it-service">Services</a></li>
                       <li><a href="contact.php">Contact</a></li>
                       <!-- <li><a href="#">Product</a></li> -->
                     </ul>

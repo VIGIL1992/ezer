@@ -13,7 +13,7 @@
 
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/responsive.css" rel="stylesheet">
-
+    <link rel="stylesheet" href="assets/css/global.css" />
         <link rel="stylesheet" href="assets4/css/fontawesome-all.css" />
 
 
@@ -85,25 +85,27 @@
                                         <li>2022, Feb 25</li>
                                     </ul> -->
                                     <h3 class="pb-1">Marketing Services</h3>
-                                    <h5>At Ezer, we bridge the gap between vision and visibility.</h5>
+                                    <!-- <h5>At Ezer, we bridge the gap between vision and visibility.</h5> -->
                                     <!-- <ul class="post-info">
                                         <li>At Ezer, we bridge the gap between vision and visibility.</li>
                                         <li>2022, Feb 25</li>
                                     </ul> -->
                                     <p>
-                                        Our marketing services are crafted to elevate your brand with purpose—from high-level strategic 
-                                        planning to on-the-ground execution that drives engagement, demand, and growth. We offer Fractional 
-                                        CMO leadership for companies seeking expert guidance without the commitment of a full-time hire, 
-                                        alongside tailored Strategic Marketing to shape your brand narrative and Field Marketing to 
-                                        activate it in the market.
+                                        At Ezer, we bridge the gap between vision and visibility. Our marketing services are designed to elevate 
+                                        your brand with purpose—combining high-level strategic planning with hands-on execution that drives 
+                                        engagement, demand, and growth. We offer <strong>Fractional </strong> leadership for companies seeking 
+                                        expert marketing guidance without the need for a full-time hire. This is complemented by <strong>Strategic 
+                                        Marketing</strong> to shape your brand narrative and <strong>Field Marketing</strong> to activate it in 
+                                        the market.
+
                                     </p>
                                     <p>
-                                        Leading this vertical is Neethu Paul, (Website link) a award winning global marketing strategist with 
-                                        over  2 decades of experience delivering impactful campaigns and building high-performance teams for 
-                                        top technology brands. With deep expertise across markets—including the Middle East, Africa, UKI, 
-                                        Europe, India, APAC, and the Americas—she brings strategic clarity and executional excellence to every 
-                                        engagement. Her leadership ensures that our clients benefit from global perspective, regional relevance, 
-                                        and results-driven marketing.
+                                        This vertical is led by <a href="#Neethu Paul" style="color: #18615B;">Neethu Paul</a>, an 
+                                        <strong>award-winning global marketing strategist</strong> with over two decades of experience delivering 
+                                        impactful campaigns and building high-performing teams for leading technology brands. With deep expertise 
+                                        across regions—including the Middle East, Africa, UKI, Europe, India, APAC, and the Americas—she brings 
+                                        strategic clarity and executional excellence to every engagement. Her leadership ensures clients benefit 
+                                        from a <strong>global perspective, regional relevance</strong>, and <strong>results-driven marketing.</strong>
                                     </p>
                                     <!-- <blockquote>
                                         Smashing Podcast Episode Pauloag Conve <br> Optimization Inspired Decisions
@@ -200,44 +202,9 @@
 
                     <!-- Sidebar Side -->
                     <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
-                        <aside class="sidebar sticky-top left-padding">
-                            
-                            <!-- Service Widget -->
-                            <div class="sidebar-widget service-widget-two">
-                                <div class="widget-content">
-                                    <!-- Sidebar Title -->
-                                    <div class="sidebar-title">
-                                        <h4>Our Services</h4>
-                                    </div>
-                                    <ul class="service-list-two">
-                                        <li><a href="business.php">Business Consultancy <sup></sup></a></li>
-                                        <li><a href="marketing.php">Marketing Services  <sup></sup></a></li>
-                                        <li><a href="hr.php">HR Recruitment <sup></sup></a></li>
-                                        <li><a href="customer.php">Customer Experience <sup></sup></a></li>
-                                        <!-- <li><a href="#">Reportyng & Analysis <sup>(5)</sup></a></li> -->
-                                    </ul>
-                                </div>
-                            </div>
-
-                           
-
-                            <!-- Contact Widget -->
-                            <div class="sidebar-widget contact-widget">
-                                <div class="widget-content" style="background-image: url(assets/images/background/pattern-25.png)">
-                                    <div class="title">
-                                        Have Any Project <span>or work together ?</span>
-                                    </div>
-                                    <a href="contact.php" class="theme-btn contact-btn">Contact us</a>
-                                    <div class="phone">
-                                        <span class="icon flaticon-call-1"></span>
-                                        Cal :<a href="tel:+0123-456-7899"> +0123 (456) 7899</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                            
-
-                        </aside>
+                        <?php
+                            include('inc/sidebar.php')
+                        ?> 
                     </div>
 
                 </div>

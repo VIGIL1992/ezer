@@ -13,6 +13,7 @@
 
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/responsive.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/global.css" />
 
         <link rel="stylesheet" href="assets4/css/fontawesome-all.css" />
 
@@ -167,44 +168,9 @@
 
                     <!-- Sidebar Side -->
                     <div class="sidebar-side col-lg-4 col-md-12 col-sm-12">
-                        <aside class="sidebar sticky-top left-padding">
-                            
-                            <!-- Service Widget -->
-                            <div class="sidebar-widget service-widget-two">
-                                <div class="widget-content">
-                                    <!-- Sidebar Title -->
-                                    <div class="sidebar-title">
-                                        <h4>Our Services</h4>
-                                    </div>
-                                    <ul class="service-list-two">
-                                        <li><a href="business.php">Business Consultancy <sup></sup></a></li>
-                                        <li><a href="marketing.php">Marketing Services  <sup></sup></a></li>
-                                        <li><a href="hr.php">HR Recruitment <sup></sup></a></li>
-                                        <li><a href="customer.php">Customer Experience <sup></sup></a></li>
-                                        <!-- <li><a href="#">Reportyng & Analysis <sup>(5)</sup></a></li> -->
-                                    </ul>
-                                </div>
-                            </div>
-
-                           
-
-                            <!-- Contact Widget -->
-                            <div class="sidebar-widget contact-widget">
-                                <div class="widget-content" style="background-image: url(assets/images/background/pattern-25.png)">
-                                    <div class="title">
-                                        Have Any Project <span>or work together ?</span>
-                                    </div>
-                                    <a href="contact.php" class="theme-btn contact-btn">Contact us</a>
-                                    <div class="phone">
-                                        <span class="icon flaticon-call-1"></span>
-                                        Cal :<a href="tel:+0123-456-7899"> +0123 (456) 7899</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                            
-
-                        </aside>
+                        <?php
+                            include('inc/sidebar.php')
+                        ?> 
                     </div>
 
                 </div>

@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Human Resources | EZER</title>
+    <title>Compliance Services | EZER</title>
     <meta name="description" content="Ezer provides essential support services to firms aiming to establish a presence by setting up a firm within the DIFC and ADGM." />
     <meta name="keywords" content="EZER , Company Incorporation, UAE, Regulatory Licensing, Authorisation, DIFC, ADGM, SCA, HR Recruitment, Compliance Services, comprehensive range of services" />
     <meta name="author" content="Pixell Media Technologies | VIGIL NATH K K " />
@@ -48,16 +48,16 @@
         <section class="page-title style-two">
             <div class="pattern-layer-one" style="background-image: url(assets/images/background/pattern-18.png)"></div>
             <!-- <div class="cloud-layer" style="background-image: url(assets/images/background/pattern-19.png)"></div> -->
-            <!-- <div class="big-letter">Human Resources</div> -->
+            <!-- <div class="big-letter">Customer Experience</div> -->
             <div class="auto-container">
                 <div class="row clearfix">
                     <!-- Title Column -->
                     <div class="title-column col-lg-12 col-md-12 col-sm-12">
                         <div class="inner-column">
-                            <h1 class="text-white">Human Resources</h1>
+                            <h1 class="text-white">Compliance Services</h1>
                             <ul class="page-breadcrumb">
                                 <li><a href="index.php">home</a></li>
-                                <li>Human Resources</li>
+                                <li>Compliance Services</li>
                             </ul>
                         </div>
                     </div>
@@ -77,48 +77,39 @@
                         <div class="blog-detail">
                             <div class="inner-box">
                                 <div class="image">
-                                    <img src="assets4/img/service/hr.avif" alt="" />
+                                    <img src="assets4/img/service/compliance.jpg" alt="" />
                                 </div>
                                 <div class="lower-content">
                                     <!-- <ul class="post-info">
                                         <li>Design</li>
                                         <li>2022, Feb 25</li>
                                     </ul> -->
-                                    <h3>Executive Talent Search</h3>
+                                    <h3>Compliance Services</h3>
                                   
                                     <p>
-                                        At Ezer, talent acquisition is personal, strategic, and discreet.
-                                        We specialize in headhunting for senior leadership and C-suite roles, delivering a curated search 
-                                        experience that connects exceptional leaders with visionary businesses.
-
+                                        We support DIFC-regulated firms in navigating complex regulatory landscapes with confidence. 
+                                   
+                                        From licensing and policy development to AML reviews and regulatory reporting, our tailored 
+                                        compliance solutions help you meet DFSA requirements while staying focused on your core business.
                                     </p>
-                                   <p>
-                                        Whether you're scaling, restructuring, or building a leadership team from the ground up, we find the 
-                                        people who shape the future of your company.
-                                   </p>
+                                  
                                     <div class="mt-5">
                                         <div class="group-title">
-                                            <h4>What We Deliver</h4>
+                                            <h4>Key Offerings: </h4>
                                         </div>
 
                                         <div>
                                             <ul class="list-with-ticks">
-                                                <li>
-                                                    Executive search for C-level and board appointments.
-                                                </li>
-                                                <li>
-                                                    Confidential headhunting for CEOs, COOs, CMOs, CTOs, and functional heads.
-                                                </li>
-                                                <li>
-                                                    Talent mapping and succession planning strategies.
-                                                </li>
-                                                <li>
-                                                    Access to an exclusive leadership network and direct outreach.
-                                                </li>
-                                                <li>
-                                                    Deep assessment of leadership capability and cultural fit.
-                                                </li>
-                                                
+                                                <li>Regulatory Licensing & Setup. </li>
+                                                <li>Outsourced Compliance Officer & MLRO Services </li>
+                                                <li>Compliance Framework Development </li>
+                                                <li>Regulatory Reporting </li>
+                                                <li>AML/KYC Advisory and Reviews </li>
+                                                <li>Compliance Monitoring & Internal Audits</li>
+                                                <li>Training & Awareness</li>
+                                                <li>Regulatory Change Management</li>
+                                                <li>Compliance Health Checks & Gap Analysis</li>
+                                                <li>Data Protection & Outsourcing Compliance</li>
                                             </ul>
 
                                         </div>
@@ -148,6 +139,9 @@
                                         }
 
                                     </style>
+                                 
+                                    <!-- <p>With Ezer, customer success isn’t a department—it’s a strategy.</p> -->
+                                    
                                     
 
 
@@ -170,6 +164,7 @@
 
         
          <?php
+            // include('inc/footer2.php');
             include('inc/footer.php')
         ?>
 

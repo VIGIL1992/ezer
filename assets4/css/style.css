@@ -196,7 +196,7 @@ select:visited {
   -webkit-text-fill-color: transparent;
 }
 .xis-it-section-title p {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .xis-it-btn a {
@@ -533,7 +533,7 @@ select:visited {
 }
 
 .xis-it-header-main-menu-wrap {
-  padding-top: 35px;
+  /* padding-top: 35px; */
 }
 
 .xis-it-main-menu-navigation .navbar-nav {
@@ -543,14 +543,14 @@ select:visited {
 .xis-it-main-menu-navigation li {
   margin: 0px 30px;
   font-family: var(--primary-font);
-  padding-bottom: 30px;
+  padding-bottom: 30px !important;
 }
 .xis-it-main-menu-navigation li a {
   color: #fff;
   font-size: 20px;
   font-weight: 600;
   position: relative;
-  padding-bottom: 30px;
+  /* padding-bottom: 30px; */
 }
 .xis-it-main-menu-navigation li a:before {
   left: 0;
@@ -558,7 +558,7 @@ select:visited {
   width: 0%;
   height: 2px;
   content: "";
-  bottom: 30px;
+  /* bottom: 30px; */
   margin: 0 auto;
   position: absolute;
   background-color: #2E9F90;
@@ -592,7 +592,7 @@ select:visited {
   width: 100%;
   z-index: 20;
   position: fixed;
-  padding: 15px 0px;
+  /* padding: 15px 0px; */
   background-color: #021613;
   -webkit-animation-duration: 0.7s;
           animation-duration: 0.7s;
@@ -997,7 +997,7 @@ select:visited {
 }
 .xis-it-system-feature-section {
   z-index: 1;
-  padding-top: 50px;
+  padding: 50px;
 }
 .xis-it-system-feature-section:before, .xis-it-system-feature-section:after {
   left: 0;
@@ -1100,29 +1100,58 @@ select:visited {
 }
 .xis-it-system-feature-text-wrap p {
   color: #fff;
-  font-size: 18px;
-  padding-bottom: 55px;
-  text-align: justify;
+  font-size: 16px;
+  padding-bottom: 20px;
+  /* text-align: justify; */
 }
 
-.xis-it-system-feature-list {
+/* .xis-it-system-feature-list {
   z-index: 1;
   background-color: #fff;
   padding: 85px 65px 65px;
   border-top-left-radius: 90px;
+} */
+ .xis-it-system-feature-list {
+  position: relative;
+  z-index: 1;
+  padding: 85px 65px 65px;
+  border-top-left-radius: 90px;
+  background-color: transparent;
 }
+
+.xis-it-system-feature-list::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-top-left-radius: 90px;
+  padding: 3px; /* border thickness */
+  /* background: linear-gradient(45deg, #2E9F90, #18615B); /* your gradient */
+  /* -webkit-mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+          mask-composite: exclude;
+  mask:
+    linear-gradient(#fff 0 0) content-box,
+    linear-gradient(#fff 0 0);
+  mask-composite: exclude; */
+}
+
+
 .xis-it-system-feature-list h3 {
   color: #140d1c;
   font-size: 40px;
   font-weight: 700;
   line-height: 1.2;
   padding-bottom: 40px;
+  color: #fff;
 
-  background-image: -webkit-gradient(linear, left top, right top, from(#2E9F90), to(#18615B));
+  /* background-image: -webkit-gradient(linear, left top, right top, from(#2E9F90), to(#18615B));
   background-image: linear-gradient(90deg, #2E9F90 0%, #18615B 100%);
   -webkit-background-clip: text;
   background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent; */
 }
 .xis-it-system-feature-list li {
   font-size: 18px;
@@ -1145,7 +1174,7 @@ select:visited {
   bottom: -60px;
 }
 .xis-it-system-feature-list-wrap:before {
-  top: -10px;
+  /* top: -10px;
   left: 0;
   width: 100%;
   content: "";
@@ -1155,7 +1184,7 @@ select:visited {
   -webkit-transition: 500ms all ease;
   transition: 500ms all ease;
   background-image: -webkit-gradient(linear, left top, right top, from(#2E9F90), to(#18615B));
-  background-image: linear-gradient(90deg, #2E9F90 0%, #18615B 100%);
+  background-image: linear-gradient(90deg, #2E9F90 0%, #18615B 100%); */
 }
 .xis-it-system-feature-list-wrap .appoint-btn a {
   z-index: 1;
@@ -1957,6 +1986,7 @@ select:visited {
   z-index: 1;
   overflow: hidden;
   padding: 150px 0px 125px;
+  margin-top: 30px;
 }
 .xis-it-testimonial-section .side-shape1 {
   top: 0;
@@ -2326,7 +2356,7 @@ select:visited {
 }
 
 .xis-it-footer-widget-wrapper {
-  padding: 70px 0px;
+  padding: 40px 0px;
   text-align: center;
 }
 
@@ -2429,7 +2459,7 @@ select:visited {
 }
 
 .xis-it-footer-copyright-content {
-  padding: 20px 0px;
+  padding: 10px 0px;
 }
 .xis-it-footer-copyright-content .xis-it-copyright-text {
   font-weight: 700;
@@ -3043,7 +3073,7 @@ select:visited {
   overflow: hidden;
   background: none; /* Ensures no background inside the card */
   transition: all 0.3s ease-in-out;
-  /* height: 420px Card Height */
+  height: 420px /* Card Height */
 }
 
 /* Apply gradient outside the card on hover */
@@ -3128,7 +3158,8 @@ select:visited {
     display: inline-block;
     margin: 15px 10px;
     padding: 10px 30px;
-    background-color: #004c40; /* Example color, adjust as necessary */
+    /*background-color: #004c40; /* Example color, adjust as necessary */
+    background: linear-gradient(45deg, #2E9F90, #18615B);
     color: #fff;
     text-decoration: none;
     border-radius: 5px;

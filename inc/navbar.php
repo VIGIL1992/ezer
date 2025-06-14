@@ -1,12 +1,12 @@
 <!-- CSS -->
 <link rel="stylesheet" href="assets4/css/hamMenu.css" />
-<link rel="stylesheet" href="assets4/css/style.css">
+<!-- <link rel="stylesheet" href="assets4/css/style.css"> -->
 
 <!-- Start of header section
 	============================================= -->
   <header id="xis-it-header" class="xis-it-header-section">
       <div class="xis-it-header-main-menu-wrap">
-        <div class="container">
+        <div class="container" style="padding: 5px;">
           <div class="main-menu-content d-flex justify-content-between align-items-center">
             <div class="brand-logo">
               <a href="index.php">
@@ -26,12 +26,12 @@
                     <li>
                       <!-- <a href="services.php">Services</a> -->
                        <a href="index.php#xis-it-service">Services</a>
-                      <ul class="dropdown-menu">
+                      <!-- <ul class="dropdown-menu">
                         <li><a href="business.php">Business Consultancy</a></li>
                         <li><a href="marketing.php">Marketing Services</a></li>
                         <li><a href="hr.php">HR Recruitment</a></li>
                         <li><a href="customer.php">Customer Experience</a></li>
-                      </ul>
+                      </ul> -->
                     </li>
                     <li><a href="contact.php">Contact</a></li>
                   </ul>
@@ -69,12 +69,12 @@
                     <li><a href="index.php#xis-it-about">About</a></li>
                     <li>
                       <a href="index.php#xis-it-service">Services</a>
-                      <ul class="dropdown-menu">
+                      <!-- <ul class="dropdown-menu">
                         <li><a href="business.php">Business Consultancy</a></li>
                         <li><a href="marketing.php">Marketing Services</a></li>
                         <li><a href="hr.php">HR Recruitment</a></li>
                         <li><a href="customer.php">Customer Experience</a></li>
-                      </ul>
+                      </ul> -->
                     </li>
                     <li><a href="contact.php">Contact</a></li>
                   </ul>

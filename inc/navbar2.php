@@ -1,8 +1,8 @@
  <!-- Start of header section -->
     <header id="xis-it-header" class="xis-it-header-section sticky-on" style="position: sticky; top: 0; width: 100%; z-index: 1000; background-color: #021613; ">
       <div class="xis-it-header-main-menu-wrap">
-        <div class="container">
-          <div class="main-menu-content d-flex justify-content-between align-items-center pb-2">
+        <div class="container"  style="padding: 5px;">
+          <div class="main-menu-content d-flex justify-content-between align-items-center">
             <div class="brand-logo">
               <a href="index.php">
                 <img src="assets4/img/logo/logo.png" alt="logo" style="height: 36px" />

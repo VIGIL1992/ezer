@@ -980,7 +980,7 @@ p{
 h1{
 	line-height:1em;
 	font-weight:600;
-	font-size:var(--font-70);
+	font-size:var(--font-50);
 }
 
 
@@ -2038,7 +2038,7 @@ img{
 }
 
 .btn-style-fifteen:hover::before{
-    opacity: 1;/
+    opacity: 1;
     -webkit-transform: scale(1, 1);
     transform: scale(1, 1);
 }
@@ -2090,7 +2090,7 @@ img{
 }
 
 .btn-style-sixteen:hover::before{
-    opacity: 1;/
+    opacity: 1;
     -webkit-transform: scale(1, 1);
     transform: scale(1, 1);
 }

@@ -141,7 +141,8 @@
 	}
 	
 	.page-title{
-		padding:100px 0px 170px;
+		/* padding:100px 0px 170px; */
+		padding: 40px 0px 60px;
 	}
 
 	.contact-banner-section .big-letter{
