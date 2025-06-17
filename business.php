@@ -84,10 +84,6 @@
                                     <img src="assets4/img/service/business.jpg" alt="" />
                                 </div>
                                 <div class="lower-content">
-                                    <!-- <ul class="post-info">
-                                        <li>Design</li>
-                                        <li>2022, Feb 25</li>
-                                    </ul> -->
                                     <h3>Business Consultancy</h3>
                                     
                                     <p>
@@ -99,83 +95,138 @@
                                     </p>
                                    
                                     
-                                    <div class="mt-5">
-                                        <div class="group-title">
-                                            <h4>Our Services</h4>
-                                        </div>
-
-                                        <div class="row clearfix">
-				
-                                            <!-- Feature Block Two -->
-                                            <div class="feature-block-two col-lg-6 col-md-6 col-sm-12">
-                                                <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                                    <h5>Market Entry & Strategic Advisory</h5>
-                                                    <div class="text">Feasibility, competitor analysis, and go-to-market planning.</div>
-                                                    
-                                                </div>
-                                            </div>
+                                  
+                                    <section id="xis-it-service" class="xis-it-testimonial-section position-relative" style="padding: 20px 0px 1px;">
+                                        
+                                        <div class="container">
                                             
-                                            <!-- Feature Block Two -->
-                                            <div class="feature-block-two col-lg-6 col-md-6 col-sm-12">
-                                                <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                                    <h5>Regulatory Licensing & Setup</h5>
-                                                    <div class="text">DIFC, ADGM, SCA, VARA licensing and compliance support.</div>
-                                                    
-                                                </div>
+                                            <div class="group-title">
+                                                <h4>Our Services</h4>
                                             </div>
+                                            <!-- New 4-card layout -->
+                                            <div class="xis-it-service-inner-items d-flex flex-wrap justify-content-center wow fadeInLeft" 
+                                                    data-wow-delay="200ms" data-wow-duration="1500ms">
+                                                
+                                                    <div class="xis-it-service-item position-relative text-center">
+                                                        <span class="xis-it-service-shape position-absolute"></span>
+                                                        <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                                                        <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                                                        <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                                                            <img src="assets4/icon/building_1.png" alt="">
+                                                        </div> -->
+                                                        <div class="inner-text position-relative xis-it-headline">
+                                                            <h3>Market Entry & Strategic Advisory </h3>
+                                                            <p>Feasibility, competitor analysis, and go-to-market planning.</p>
+                                                        </div>
+                                                    </div>
 
-                                            <!-- Feature Block Two -->
-                                            <div class="feature-block-two col-lg-6 col-md-6 col-sm-12">
-                                                <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                                    <h5>Fund Structuring</h5>
-                                                    <div class="text">Setup and advisory for PE, VC, hedge funds in DIFC/ADGM.</div>
                                                     
-                                                </div>
-                                            </div>
+                                                    <div class="xis-it-service-item position-relative text-center">
+                                                        <span class="xis-it-service-shape position-absolute"></span>
+                                                        <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                                                        <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                                                        <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                                                            <img src="assets4/icon/ic1.png" alt="">
+                                                        </div> -->
+                                                        <div class="inner-text position-relative xis-it-headline">
+                                                            <h3>Regulatory Licensing & Setup </h3>
+                                                            <p>DIFC, ADGM, SCA, VARA licensing and compliance support.</p>
+                                                        </div>
+                                                    </div>
+                                                
 
-                                            <!-- Feature Block Two -->
-                                            <div class="feature-block-two col-lg-6 col-md-6 col-sm-12">
-                                                <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                                    <h5>Family Office Advisory</h5>
-                                                    <div class="text">Single and multi-family office structuring and governance.</div>
-                                                    
-                                                </div>
-                                            </div>
+                                                
+                                                    <div class="xis-it-service-item position-relative text-center">
+                                                        <span class="xis-it-service-shape position-absolute"></span>
+                                                        <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                                                        <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                                                        <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                                                            <img src="assets4/icon/hr.png" alt="">
+                                                        </div> -->
+                                                        <div class="inner-text position-relative xis-it-headline">
+                                                            <h3>Fund Structuring </h3>
+                                                            <p>Setup and advisory for PE, VC, hedge funds in DIFC/ADGM.</p>
+                                                        </div>
+                                                    </div>
+                                                
 
-                                            <!-- Feature Block Two -->
-                                            <div class="feature-block-two col-lg-6 col-md-6 col-sm-12">
-                                                <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                                    <h5>Corporate Structuring & Incorporation</h5>
-                                                    <div class="text">Mainland, free zone, offshore entities, SPVs, and holding companies.</div>
-                                                    
-                                                </div>
-                                            </div>
+                                                
+                                                    <div class="xis-it-service-item position-relative text-center">
+                                                        <span class="xis-it-service-shape position-absolute"></span>
+                                                        <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                                                        <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                                                        <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                                                            <img src="assets4/icon/ic2.png" alt="">
+                                                        </div> -->
+                                                        <div class="inner-text position-relative xis-it-headline">
+                                                            <h3>Family Office Advisory</h3>
+                                                            <p>Single and multi-family office structuring and governance.</p>
+                                                        </div>
+                                                    </div>
+                                                
 
-                                            <!-- Feature Block Two -->
-                                            <div class="feature-block-two col-lg-6 col-md-6 col-sm-12">
-                                                <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                                    <h5>Licensing & Government Approvals</h5>
-                                                    <div class="text">End-to-end support across DED, MOE, free zones, and external regulators.</div>
-                                                    
-                                                </div>
-                                            </div>
+                                                
+                                                    <div class="xis-it-service-item position-relative text-center">
+                                                        <span class="xis-it-service-shape position-absolute"></span>
+                                                        <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                                                        <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                                                        <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                                                            <img src="assets4/icon/ic1.png" alt="">
+                                                        </div> -->
+                                                        <div class="inner-text position-relative xis-it-headline">
+                                                            <h3>Corporate Structuring & Incorporation</h3>
+                                                            <p>Mainland, free zone, offshore entities, SPVs, and holding companies.</p>
+                                                        </div>
+                                                    </div>
 
-                                            <!-- Feature Block Two -->
-                                            <div class="feature-block-two col-lg-6 col-md-6 col-sm-12">
-                                                <div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                                                    <h5>Risk & Compliance Frameworks</h5>
-                                                    <div class="text">AML/CFT, internal policies, and outsourced compliance roles</div>
-                                                    
-                                                </div>
+                                                    <div class="xis-it-service-item position-relative text-center">
+                                                        <span class="xis-it-service-shape position-absolute"></span>
+                                                        <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                                                        <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                                                        <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                                                            <img src="assets4/icon/ic1.png" alt="">
+                                                        </div> -->
+                                                        <div class="inner-text position-relative xis-it-headline">
+                                                            <h3>Licensing & Government Approvals</h3>
+                                                            <p>End-to-end support across DED, MOE, free zones, and external regulators.</p>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="xis-it-service-item position-relative text-center">
+                                                        <span class="xis-it-service-shape position-absolute"></span>
+                                                        <span class="xis-it-bottom-shape1 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                                                        <span class="xis-it-bottom-shape2 position-absolute"><img src="assets4/img/shape/sh4.png" alt=""></span>
+                                                        <!-- <div class="inner-icon position-relative d-flex justify-content-center align-items-center">
+                                                            <img src="assets4/icon/ic1.png" alt="">
+                                                        </div> -->
+                                                        <div class="inner-text position-relative xis-it-headline">
+                                                            <h3>Risk & Compliance Frameworks</h3>
+                                                            <p>AML/CFT, internal policies, and outsourced compliance roles</p>
+                                                        </div>
+                                                    </div>
+
+                                                   
+                                                
+
+
                                             </div>
-                                            
                                         </div>
+                                    </section>
+                                    <style>
+                                        .xis-it-service-item .xis-it-service-shape {
+                                            top: -10px !important;
+                                            
+                                        }
 
-                                    </div>
-                              
-
-                                   
-                                    
+                                        @media screen and (max-width: 680px) {
+                                            .xis-it-service-item {
+                                                /* margin: 0; */
+                                                width: 100% !important;
+                                                /* margin-bottom: 40px; */
+                                            }
+                                        }
+                                    </style>
+                                 
 
                                 </div>
                             </div>

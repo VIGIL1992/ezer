@@ -875,7 +875,7 @@
 	position:relative;
 	overflow:hidden;
 	/* padding:155px 0px 190px; */
-	padding:40px 0px 100px;
+	/* padding:40px 0px 100px; */
 	/* background-color:var(--green-color); */
 	background: url('../../assets4/img/bg/ser-cta-bg.jpg') center center/cover no-repeat;
   	z-index: 1;
@@ -1530,7 +1530,7 @@
 
 .sidebar-page-container{
 	position:relative;
-	padding:100px 0px 80px;
+	padding:100px 0px 0px;
 }
 
 .sidebar-page-container .content-side,
@@ -2824,6 +2824,9 @@
 	position:relative;
 	overflow:hidden;
 	background-color:var(--color-two);
+
+	max-height: 400px;
+    object-fit: cover;
 }
 
 .blog-detail .inner-box .image img{
