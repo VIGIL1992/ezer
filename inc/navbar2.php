@@ -1,30 +1,28 @@
+ <!-- CSS -->
+  <link rel="stylesheet" href="assets4/css/hamMenu.css" />
+
+
  <!-- Start of header section -->
-    <header id="xis-it-header" class="xis-it-header-section sticky-on" style="position: sticky; top: 0; width: 100%; z-index: 1000; background-color: #021613; ">
+    <header id="xis-it-header" class="xis-it-header-section sticky-on" 
+      style="position: sticky; top: 0; width: 100%; z-index: 1000; background-color: #021613; ">
       <div class="xis-it-header-main-menu-wrap">
         <div class="container"  style="padding: 5px;">
           <div class="main-menu-content d-flex justify-content-between align-items-center">
             <div class="brand-logo">
               <a href="index.php">
-                <img src="assets4/img/logo/logo.png" alt="logo" style="height: 36px" />
+                <img src="assets4/img/logo/logo.png" 
+                  alt="logo" 
+                  style="height: 36px" />
               </a>
             </div>
             <div class="xis-it-main-menu-navigation">
-              <!-- <nav class="xis-it-main-navigation-area scroll-nav clearfix ul-li">
-                <ul id="xis-it-main-nav" class="nav navbar-nav clearfix">
-                  <li><a href="index.php">Home</a></li>
-                  <li><a href="index.php#xis-it-about">About</a></li>
-                  <li><a href="index.php#xis-it-service">Service</a></li>
-                  <li><a href="index.php#xis-it-pricing">Pricing</a></li>
-                  <li><a href="index.php#xis-it-footer">Contact</a></li>
-                </ul>
-              </nav> -->
+             
                 <div class="off-screen-menu">
                   <nav class="mobile-main-navigation scroll-nav clearfix ul-li">
                     <ul id="xis-main-nav" class="nav navbar-nav clearfix">
                       <li><a href="index.php">Home</a></li>
                       <li><a href="index.php#xis-it-about">About</a></li>
                       <li><a href="index.php#xis-it-service">Services</a></li>
-                      <!-- <li><a href="index.php#xis-it-pricing">Pricing</a></li> -->
                       <li><a href="index.php#xis-it-footer">Contact</a></li>
                     </ul>
                   </nav>
@@ -73,8 +71,29 @@
       </div>
     </header>
     <!-- End of header section -->
+
+  <style>
+    /* Mobile submenu display (always visible when menu is open) */
+    .mobile_menu_wrap .dropdown-menu {
+      display: block !important; /* override hidden default */
+      position: static; /* no absolute positioning in burger menu */
+      background: none; /* or keep if you want a background */
+      padding-left: 15px; /* indents to show nesting */
+    }
+
+    .mobile_menu_wrap .dropdown-menu li a {
+      color: #fff; /* adjust as needed */
+    }
+    .mobile_menu_wrap .dropdown-menu {
+      display: block !important;
+      position: static;
+      background: none;
+      padding-left: 15px;
+    }
+
+  </style>
     <!-- JavaScript -->
     <script src="assets4/js/hamMenu.js"></script>
+    <script src="assets4/js/script.js"></script>
 
-    <!-- CSS -->
-    <link rel="stylesheet" href="assets4/css/hamMenu.css" />
+    

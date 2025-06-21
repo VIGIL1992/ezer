@@ -9,7 +9,7 @@
             </div>
             <ul class="service-list-two">
                 <li><a href="business.php">Business Consultancy <sup></sup></a></li>
-                <li><a href="business_2.php">Business Consultancy 2</a></li>
+                <!-- <li><a href="business_2.php">Business Consultancy 2</a></li> -->
                 <li><a href="marketing.php">Marketing Services  <sup></sup></a></li>
                 <li><a href="hr.php">HR Recruitment <sup></sup></a></li>
                 <li><a href="customer.php">Customer Experience <sup></sup></a></li>
@@ -29,10 +29,10 @@
                 <span>Access expert support</span> Schedule your free discovery call now.
             </div>
             
-            <div class="phone mb-4">
-                <!-- <span class="icon flaticon-call-1"></span> -->
+            <!-- <div class="phone mb-4">
+                <span class="icon flaticon-call-1"></span>
                 Cal :<a href="tel:+0123-456-7899"> +0123 (456) 7899</a>
-            </div>
+            </div> -->
             <a href="contact.php" class="theme-btn contact-btn">Contact us</a>
         </div>
     </div>

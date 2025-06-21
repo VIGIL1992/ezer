@@ -29,7 +29,7 @@
 
 
     <?php
-			include('inc/navbar.php');
+			include('inc/navbar2.php');
       include('inc/whatsapp.php');
 		?>
 
@@ -1226,12 +1226,12 @@
     <!-- Banner Section -->
 
     <section id="xis-contact" class="xis-contact-section position-relative">
-        <span class="xis-contact-shape3 position-absolute"><img src="assets6/img/shape/side-sh5.png" alt=""></span>
-        <span class="xis-contact-shape4 position-absolute"><img src="assets6/img/shape/side-sh6.png" alt=""></span>
+        <!-- <span class="xis-contact-shape3 position-absolute"><img src="assets6/img/shape/side-sh5.png" alt=""></span> -->
+        <!-- <span class="xis-contact-shape4 position-absolute"><img src="assets6/img/shape/side-sh6.png" alt=""></span> -->
         <div class="container">
             <div class="xis-contact-content position-relative">
-                <span class="xis-contact-shape1 position-absolute"><img src="assets6/img/shape/ct-sh2.png" alt=""></span>
-                <span class="xis-contact-shape2 position-absolute"><img src="assets6/img/shape/ct-sh1.png" alt=""></span>
+                <!-- <span class="xis-contact-shape1 position-absolute"><img src="assets6/img/shape/ct-sh2.png" alt=""></span> -->
+                <!-- <span class="xis-contact-shape2 position-absolute"><img src="assets6/img/shape/ct-sh1.png" alt=""></span> -->
                 <div class="xis-section-title text-center headline pera-content">
                     <span>Contact Us!</span>
                     <h2>Ready to get started?
@@ -1260,22 +1260,22 @@
     <!-- For Js Library -->
     <script src="assets4/js/jquery.min.js"></script>
     <script src="assets4/js/bootstrap.min.js"></script>
-    <script src="assets4/js/popper.min.js"></script>
-    <script src="assets4/js/appear.js"></script>
-    <script src="assets4/js/slick.js"></script>
-    <script src="assets4/js/jquery.counterup.min.js"></script>
-    <script src="assets4/js/waypoints.min.js"></script>
+    <!-- <script src="assets4/js/popper.min.js"></script> -->
+    <!-- <script src="assets4/js/appear.js"></script> -->
+    <!-- <script src="assets4/js/slick.js"></script> -->
+    <!-- <script src="assets4/js/jquery.counterup.min.js"></script> -->
+    <!-- <script src="assets4/js/waypoints.min.js"></script> -->
     <script src="assets4/js/odometer.js"></script>
     <script src="assets4/js/wow.min.js"></script>
     <script src="assets4/js/parallax.min.js"></script>
-    <script src="assets4/js/parallax-scroll.js"></script>
+    <!-- <script src="assets4/js/parallax-scroll.js"></script> -->
     <script src="assets4/js/typer.js"></script>
-    <script src="assets/js/pagenav.js"></script>
-    <script src="assets4/js/countdown.js"></script>
+    <!-- <script src="assets/js/pagenav.js"></script> -->
+    <!-- <script src="assets4/js/countdown.js"></script> -->
     <script src="assets4/js/jquery.nice-select.min.js"></script>
     <script src="assets4/js/imagesloaded.pkgd.min.js"></script>
     <script src="assets4/js/jquery.magnific-popup.min.js"></script>
-    <script src="assets4/js/isotope.pkgd.js"></script>
+    <!-- <script src="assets4/js/isotope.pkgd.js"></script> -->
     <script src="assets4/js/rbtools.min.js"></script>
     <script src="assets4/js/rs6.min.js"></script>
     <script src="assets4/js/script.js"></script>

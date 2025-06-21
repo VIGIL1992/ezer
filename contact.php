@@ -2,9 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>EZER - Ezer provides essential support services to firms aiming to establish a presence by setting up a firm within the DIFC and ADGM.</title>
+    <title>Contact | EZER - Ezer provides essential support services to firms aiming to establish a presence by setting up a firm within the DIFC and ADGM.</title>
     <meta name="description" content="Ezer provides essential support services to firms aiming to establish a presence by setting up a firm within the DIFC and ADGM." />
-    <meta name="keywords" content="-------" />
+    <meta name="keywords" content="Contact" />
     <meta name="author" content="Pixell Media Technologies | VIGIL NATH K K " />
     <link
       rel="shortcut icon"

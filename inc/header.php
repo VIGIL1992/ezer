@@ -10,4 +10,4 @@
     <link rel="stylesheet" href="assets4/css/rs6.css" />
     <link rel="stylesheet" href="assets4/css/style.css" />
 
-    <link rel="stylesheet" href="assets8/css/style.css">
+    <!-- <link rel="stylesheet" href="assets8/css/style.css"> -->
